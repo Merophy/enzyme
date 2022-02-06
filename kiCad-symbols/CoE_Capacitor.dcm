@@ -1,8 +1,32 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 100nF
-D Unpolarized capacitor, small symbol
-K capacitor cap
+D 50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
+$CMP 10nF
+D 50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
+$CMP 1uF
+D 25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
+$CMP 2.2uF
+D 6.3V 2.2uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
+$CMP 22uF
+D X5R 25V ±20% 22uF 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
 F ~
 $ENDCMP
 #
