@@ -6,8 +6,20 @@ K capacitor cap user
 F ~
 $ENDCMP
 #
+$CMP 100pF
+D 50V 100pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
 $CMP 10nF
 D 50V 10nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
+$CMP 1nF
+D 50V 1nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 K capacitor cap user
 F ~
 $ENDCMP
@@ -26,6 +38,12 @@ $ENDCMP
 #
 $CMP 22uF
 D X5R 25V ±20% 22uF 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
+$CMP 6.8nF
+D 50V 6.8nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
 K capacitor cap user
 F ~
 $ENDCMP
