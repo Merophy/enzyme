@@ -48,6 +48,12 @@ K resistor res user
 F ~
 $ENDCMP
 #
+$CMP 3.3K
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 3.3kΩ 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
 $CMP 4.7K
 D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS
 K resistor res user
@@ -64,6 +70,12 @@ $CMP 680R
 D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 680Ω 0402 Chip Resistor - Surface Mount ROHS
 K resistor res user
 F ~
+$ENDCMP
+#
+$CMP B3380
+D 10kΩ -40℃~+125℃ 3455K 0.31mA 100mW 3334K ±1% 3380K ±1% 0402 NTC Thermistors ROHS
+K thermistor sensor user
+F www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=ncp15xh103f03rc
 $ENDCMP
 #
 #End Doc Library
