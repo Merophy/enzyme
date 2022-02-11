@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R
+D ±1% 1/16W Thick Film Resistors 50V ±800ppm/℃ -55℃~+155℃ 0Ω 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 100R
+D ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 100Ω 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 10K
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 10kΩ 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 1K
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 1R
+D ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 1Ω 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 2.2K
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 2.2kΩ 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 22R
+D ±1% 1/16W Thick Film Resistors 50V ±200ppm/℃ -55℃~+155℃ 22Ω 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 2mR
+D ±1% 1W ±75ppm/℃ 0.002Ω 1206 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 4.7K
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 4.7kΩ 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 470R
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 470Ω 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+$CMP 680R
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 680Ω 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
+#End Doc Library
