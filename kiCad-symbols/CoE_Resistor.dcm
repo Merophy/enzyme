@@ -18,6 +18,12 @@ K resistor res user
 F ~
 $ENDCMP
 #
+$CMP 18K
+D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 18kΩ 0402 Chip Resistor - Surface Mount ROHS
+K resistor res user
+F ~
+$ENDCMP
+#
 $CMP 1K
 D ±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 1kΩ 0402 Chip Resistor - Surface Mount ROHS
 K resistor res user

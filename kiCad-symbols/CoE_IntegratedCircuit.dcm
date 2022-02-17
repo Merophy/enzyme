@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DRV8301
+D 65-V max 3-phase gate driver with buck regulator, current shunt amplifiers & SPI
+K bldc driver brushless stepper user
+F https://www.ti.com/lit/ds/symlink/drv8301.pdf
+$ENDCMP
+#
 $CMP INA199A1
 D 26-V, Bidirectional, Zero-Drift, Low-or High-Side, Voltage-Output, Current-Shunt Monitor
 K capacitor cap user

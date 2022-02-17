@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP B5819W
+D 40V 600mV@1A 1A SOD-123 Schottky Barrier Diodes (SBD) ROHS
+K Schottky diode user
+F https://datasheet.lcsc.com/lcsc/1809140216_Changjiang-Electronics-Tech--CJ-B5819W-SL_C8598.pdf
+$ENDCMP
+#
 $CMP LED_A
 D Amber 0603 Light Emitting Diodes (LED) RoHS
 K LED user
