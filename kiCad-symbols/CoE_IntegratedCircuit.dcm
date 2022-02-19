@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2127
+D 400mA 68dB@(100Hz),45dB@(10kHz) 300mV@(300mA) Adjustable 0.8V~5.5V Positive 1 6V SOT-23-5 Linear Voltage Regulators (LDO) ROHS
+K linear regulator ldo adjustable positive user
+F https://www.diodes.com/assets/Datasheets/AP2127.pdf
+$ENDCMP
+#
 $CMP DRV8301
 D 65-V max 3-phase gate driver with buck regulator, current shunt amplifiers & SPI
 K bldc driver brushless stepper user
