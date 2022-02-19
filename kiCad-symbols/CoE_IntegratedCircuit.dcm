@@ -6,6 +6,12 @@ K linear regulator ldo adjustable positive user
 F https://www.diodes.com/assets/Datasheets/AP2127.pdf
 $ENDCMP
 #
+$CMP AS5047P
+D 14-Bit On-Axis Magnetic Rotary Position Sensor with 12-Bit Decimal and Binary Incremental Pulse Count for 28krpm High Speed Capability
+K Magnetic Hall Sensor user
+F https://ams.com/documents/20143/36005/AS5047P_DS000324_3-00.pdf
+$ENDCMP
+#
 $CMP DRV8301
 D 65-V max 3-phase gate driver with buck regulator, current shunt amplifiers & SPI
 K bldc driver brushless stepper user
