@@ -24,4 +24,9 @@ K connector user
 F www.molex.com/pdm_docs/ps/PS-52465-015.pdf
 $ENDCMP
 #
+$CMP SoicBite
+D SOIC bite as connector
+K programming stlink jtag connector user
+$ENDCMP
+#
 #End Doc Library
