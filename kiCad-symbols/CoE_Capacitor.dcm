@@ -48,4 +48,10 @@ K capacitor cap user
 F ~
 $ENDCMP
 #
+$CMP 6.8pF
+D 50V 6.8pF C0G ±0.25pF 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+K capacitor cap user
+F ~
+$ENDCMP
+#
 #End Doc Library
