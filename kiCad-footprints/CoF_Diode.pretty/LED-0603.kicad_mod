@@ -1,6 +1,6 @@
 (footprint "LED-0603" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 621E9FFB)
+  (tedit 621FCFC6)
   (tags "LED")
   (attr smd)
   (fp_text reference "REF**" (at 0 -0.95) (layer "F.SilkS")
