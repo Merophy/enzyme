@@ -6,7 +6,7 @@
     (property "Value" "AO3400A" (id 1) (at -7.62 -3.81 0)
       (effects (font (size 0.9906 0.9906)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:TSOT-23" (id 2) (at 0 12.7 0)
+    (property "Footprint" "CoF_SmallOutline:SOT-23" (id 2) (at 0 12.7 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" (id 3) (at 0 -25.4 0)
