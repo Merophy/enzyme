@@ -1,6 +1,6 @@
 (footprint "QFN-28-EP" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62D95AF5)
+  (tedit 630072F0)
   (attr smd)
   (fp_text reference "REF**" (at 0.4 -3.05 unlocked) (layer "F.SilkS")
     (effects (font (size 0.7 0.7) (thickness 0.1)))
@@ -63,4 +63,9 @@
   (pad "27" smd roundrect (at -0.8 -1.85 90) (size 0.825 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a99cc16c-17a7-400b-87ed-2639a7b2d5ec))
   (pad "28" smd roundrect (at -1.2 -1.85 90) (size 0.825 0.22) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 970cfafd-6fae-480b-b5b1-39acc3ee6831))
   (pad "29" smd rect (at 0 0) (size 2.3 2.3) (layers "F.Cu" "F.Mask") (tstamp 4b8e4218-9740-4574-b59e-9bff3b6ae8ff))
+  (model "${KIPRJMOD}/enzyme/kiCad-solids/QuadFlat/QFN-28.STEP"
+    (offset (xyz -1.2 -2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
