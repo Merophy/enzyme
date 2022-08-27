@@ -1,6 +1,6 @@
 (footprint "Tactile-5-5" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62F3B864)
+  (tedit 630687E9)
   (attr smd)
   (fp_text reference "REF**" (at -4.725 -7.675 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -51,4 +51,9 @@
   (pad "2" smd roundrect (at 3 -1.875) (size 1 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp f976e2cc-36f9-4479-a816-2c74d1d5da6f))
   (pad "3" smd roundrect (at -3 1.875) (size 1 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp a501555e-bbc7-4b58-ad89-28a0cd3dd6d0))
   (pad "4" smd roundrect (at 3 1.875) (size 1 0.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 16ded395-a862-4198-b3af-ba8c7fb298bb))
+  (model "${KIPRJMOD}/enzyme/kiCad-solids/Electromechanic/Tactile_4x4.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

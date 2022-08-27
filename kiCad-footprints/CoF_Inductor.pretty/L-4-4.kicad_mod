@@ -1,6 +1,6 @@
 (footprint "L-4-4" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62F2BAE9)
+  (tedit 630685B4)
   (descr "SMD, 7.1mm x 6.6mm 3mm height")
   (tags "Inductor, LCSC, SMD")
   (attr smd)
@@ -22,7 +22,7 @@
   (pad "2" smd roundrect (at 1.5 0) (size 1.1 3.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 53b4beeb-baec-484e-bd54-18f897331687))
   (model "${KIPRJMOD}/enzyme/kiCad-solids/Inductors/L-13.5x12.5x6.4mm.step"
     (offset (xyz 0 0 0))
-    (scale (xyz 0.55 0.52 0.469))
+    (scale (xyz 0.3 0.3 0.3))
     (rotate (xyz 0 0 0))
   )
 )
