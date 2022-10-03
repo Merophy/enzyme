@@ -748,7 +748,7 @@
     (property "Value" "M3" (id 1) (at 2.54 -2.54 0)
       (effects (font (size 0.9906 0.9906)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 0 6.35 0)
+    (property "Footprint" "CoF_Connector:M3" (id 2) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2111221230_Sinhoo-SMTSO3015CTJ_C2915632.pdf" (id 3) (at 0 -10.16 0)
