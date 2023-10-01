@@ -1,0 +1,24 @@
+(footprint "Screw_m3x5mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Cap screw ")
+  (attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+  (fp_text reference "REF**" (at 0 -2.3 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 006690b1-75d4-4298-881b-59d34251f547)
+  )
+  (fp_text value "Screw_m3x5mm" (at 0 2.9 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5082f8a9-1b49-4bac-a4a7-1367921a5727)
+  )
+  (fp_text user "${REFERENCE}" (at 0 4.4 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4ec04f2d-6b51-404e-aa3b-5ba2bbae5ea7)
+  )
+  (fp_circle (center 0 0) (end 1.4 0)
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Fab") (tstamp abea138d-2e32-47db-a661-93b713f80e70))
+  (model "${KIPRJMOD}/enzyme/kiCad-solids/Mechanic/capScrewM3x5mm.step"
+    (offset (xyz 0 0 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

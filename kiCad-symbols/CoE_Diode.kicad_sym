@@ -6,7 +6,7 @@
     (property "Value" "B560C" (at 0.635 -2.54 0)
       (effects (font (size 0.9906 0.9906)) (justify left))
     )
-    (property "Footprint" "" (at 0 10.16 0)
+    (property "Footprint" "CoF_Diode:SMC" (at 0 10.16 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds13012.pdf" (at 0 -16.51 0)
