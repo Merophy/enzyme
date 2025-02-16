@@ -229,18 +229,7 @@
 	)
 	(fp_circle
 		(center 0 -14.25)
-		(end 1.5 -14.2)
-		(stroke
-			(width 1)
-			(type default)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "2b61c83d-ec2e-40b4-83e5-b5095513d170")
-	)
-	(fp_circle
-		(center 0 -14.25)
-		(end 1.5 -14.2)
+		(end 1.8 -14.2)
 		(stroke
 			(width 1)
 			(type default)
@@ -273,18 +262,7 @@
 	)
 	(fp_circle
 		(center 0 14.25)
-		(end 1.5 14.3)
-		(stroke
-			(width 1)
-			(type default)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "6a0e2b43-062b-48d9-9206-a754065a9db0")
-	)
-	(fp_circle
-		(center 0 14.25)
-		(end 1.5 14.3)
+		(end 1.8 14.3)
 		(stroke
 			(width 1)
 			(type default)
@@ -317,18 +295,7 @@
 	)
 	(fp_circle
 		(center 44.998802 -14.25)
-		(end 46.498802 -14.2)
-		(stroke
-			(width 1)
-			(type default)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "6645fc89-e3bd-43d1-8dda-b327d7d6263d")
-	)
-	(fp_circle
-		(center 44.998802 -14.25)
-		(end 46.498802 -14.2)
+		(end 46.8 -14.2)
 		(stroke
 			(width 1)
 			(type default)
@@ -361,18 +328,7 @@
 	)
 	(fp_circle
 		(center 45 14.25)
-		(end 46.5 14.3)
-		(stroke
-			(width 1)
-			(type default)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "124f71e3-ff66-4f1b-9721-6451d919150a")
-	)
-	(fp_circle
-		(center 45 14.25)
-		(end 46.5 14.3)
+		(end 46.8 14.3)
 		(stroke
 			(width 1)
 			(type default)
@@ -6927,38 +6883,6 @@
 		(remove_unused_layers no)
 		(roundrect_rratio 0.125)
 		(uuid "b7dd5201-8159-4654-a1f0-5e7e2fe3797e")
-	)
-	(pad "MH" thru_hole circle
-		(at 0 -14.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "be69f858-aea4-41f5-9177-436a49aae7d4")
-	)
-	(pad "MH" thru_hole circle
-		(at 0 14.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "2b948b08-818c-4797-a3a8-89f6dec9d1f6")
-	)
-	(pad "MH" thru_hole circle
-		(at 44.998802 -14.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "e08ce77d-9852-4e19-a3d0-3db9e357562b")
-	)
-	(pad "MH" thru_hole circle
-		(at 45 14.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "14fea443-d5cd-459e-843a-963da329a339")
 	)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/ESC_FLAME_80A_Coloured.step"
 		(offset
