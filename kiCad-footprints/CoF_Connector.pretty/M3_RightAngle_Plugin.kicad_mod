@@ -357,6 +357,7 @@
 		)
 	)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Mechanic/M3 x 0.5mm Thread 5mm.STEP"
+		(opacity 0.7500)
 		(offset
 			(xyz 0 -1.2 5.8)
 		)
