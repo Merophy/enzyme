@@ -5950,38 +5950,6 @@
 		(roundrect_rratio 0.125)
 		(uuid "458c9d51-92fc-49e8-a4cd-9402566857d0")
 	)
-	(pad "MH" thru_hole circle
-		(at -24 -20.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "f3442ef7-fd65-4ab4-97e4-25755b445448")
-	)
-	(pad "MH" thru_hole circle
-		(at -24 20.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "84a554f8-8f18-4b2a-8187-0e2af593df85")
-	)
-	(pad "MH" thru_hole circle
-		(at 24 -20.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "16a58b00-d17d-4752-b696-fd134419b376")
-	)
-	(pad "MH" thru_hole circle
-		(at 24 20.25)
-		(size 5 5)
-		(drill 2.5)
-		(layers "*.Cu" "B.SilkS")
-		(remove_unused_layers no)
-		(uuid "7d235b4d-ff61-469e-81d6-026aa9798439")
-	)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/ESC_AT115A_Coloured.step"
 		(offset
 			(xyz -38 -22.75 0)
