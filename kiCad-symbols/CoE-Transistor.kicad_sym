@@ -568,7 +568,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "CoF_SmallOutline:TDSON-8"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -578,7 +578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BSC030N08NS5-DS-v02_02-EN.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893673585324032"
 			(at 0 -12.7 0)
 			(effects
 				(font

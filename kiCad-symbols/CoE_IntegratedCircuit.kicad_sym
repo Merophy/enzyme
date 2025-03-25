@@ -5918,7 +5918,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
+		(property "Footprint" "CoF_SmallOutline:SOT-89-3"
 			(at 0 -13.97 0)
 			(effects
 				(font
@@ -6092,7 +6092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.7x2.4mm"
+		(property "Footprint" "CoF_DualFlat:DFN-8-1EP"
 			(at 0 -30.48 0)
 			(effects
 				(font
