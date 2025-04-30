@@ -1,0 +1,139 @@
+(footprint "Buzzer_42mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9d369655-41ed-40ea-bc2c-f725a85891b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Buzzer_42mm"
+		(at 0 10.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "34d815bb-ca09-417e-959f-0f54aa5261d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 9.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c94e2d9f-6582-4c2b-a9e4-4b2e4f53a1f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 9.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "854a70fc-d7c4-4fb8-a4d6-9e3e6ae58953")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 9.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98f826fb-21d5-44ec-8ec0-f6ec326dabfe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -27.1 -1.1)
+		(end -22.9 1.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "22b3273b-4384-4c4e-b83c-8b93e3893f22")
+	)
+	(fp_rect
+		(start -27.1 3.9)
+		(end -22.9 6.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "29e9e31c-8b35-43a9-a41d-af004baec49d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 21.2 0)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "5c5a2a58-2dd9-4cd0-9164-1c6600dfe121")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 12 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4be6c819-165e-4cab-8aa5-0966f2b6fe61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -25 0)
+		(size 4 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "2c9d4423-30c5-41a4-8e81-70522d81b8d7")
+	)
+	(pad "2" smd roundrect
+		(at -25 5)
+		(size 4 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "3fdb2bc7-f267-47c8-a373-265bc84d0de2")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/Same_Sky_CPE-420.step"
+		(offset
+			(xyz 0 0 11.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 0 0)
+		)
+	)
+)

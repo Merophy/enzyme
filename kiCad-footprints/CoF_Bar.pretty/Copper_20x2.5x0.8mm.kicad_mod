@@ -1,0 +1,102 @@
+(footprint "Copper_20x2.5x0.8mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Surface Mount,20x2.5x0.8mm")
+	(property "Reference" "REF**"
+		(at 0 2.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ae79c385-acb4-4ecb-86db-b66e672fdba6")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Copper_20x2.5x0.8mm"
+		(at 0 3.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7e0b899c-f4ac-4d43-bd79-9c4e13f107d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310191012_STEIPU-STHW4-DU-HS2002X508_C18548294.pdf"
+		(at 0 2.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f35d5177-4f12-4278-820e-e1320245ca51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "H62 Brass 20*2.5*0.8mm Surface Mount,20x2.5x0.8mm Metal Products * SMT Copper Sheet "
+		(at 0 2.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c658dd6-130e-4b6b-8abc-eaff0d2bf858")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfr. Part #" "STHW4-DU-HS2002X508"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0e09daaa-104c-49ba-886c-a4fd4a619c9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "LCSC Part #" "C18548294"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3b4e40f1-b4be-4c1c-ad5e-d3c7d0a54f21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 5.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "47d2eed9-ae33-4397-9220-ddaec61f563c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 0 90)
+		(size 2.5 20)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "f29a1bbd-6673-4600-a25f-21a3e7f87460")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,178 @@
+(footprint "GT-BTP16003-0180B-014B"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD,P=1.6mm Blade / Shrapnel Contact Battery Connectors ROHS")
+	(tags "connector spring 3 pin")
+	(property "Reference" "REF**"
+		(at 0 -4.6 0)
+		(layer "F.SilkS")
+		(uuid "cb39e126-9cf5-4d3e-9522-24bea719dc91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "GT-BTP16003-0180B-014B"
+		(at 0 6.48 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d854d27-8828-4a41-b945-5dc197b29543")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -10.85 11.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9ad530d-bf63-4783-b6cc-771771fe471d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -10.85 11.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bcc798e5-bccc-4cd6-9bb2-e65fe2c08749")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.4 -3.1)
+		(end -1.3 -3.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bf57a13f-d395-4ff0-860b-5f73f21d98bc")
+	)
+	(fp_line
+		(start -2.4 0.7)
+		(end -2.4 -3.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ec97edf1-06fe-4140-9eb1-bddc9791f3bd")
+	)
+	(fp_line
+		(start -1 1.2)
+		(end -0.6 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f7d5899f-b237-4d7a-bfae-ff207fdd8fb4")
+	)
+	(fp_line
+		(start 0.6 1.2)
+		(end 1 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b758545e-a92c-4468-a55e-b65662be677e")
+	)
+	(fp_line
+		(start 2.2 1.2)
+		(end 2.4 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7a61afc2-42c7-4cc8-9c48-e1c19125f9ac")
+	)
+	(fp_line
+		(start 2.4 -3.1)
+		(end 1.3 -3.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b8b528bb-2234-49de-8e21-e3fab2f3e1ef")
+	)
+	(fp_line
+		(start 2.4 -3.1)
+		(end 2.4 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9bbbb287-502c-482d-b0ec-c4a4b9bfc308")
+	)
+	(fp_poly
+		(pts
+			(xy -2.2 1) (xy -2.7 1.25) (xy -2.7 0.75)
+		)
+		(stroke
+			(width 0.03)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "a1866874-ad15-4544-8d60-ed807aea3b13")
+	)
+	(pad "1" smd roundrect
+		(at -1.6 1)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "b244e933-fdc8-4736-bba1-2fb7eeddc920")
+	)
+	(pad "2" smd roundrect
+		(at 0 1)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "4ef358ad-798f-47a8-abe9-145461982a9f")
+	)
+	(pad "3" smd roundrect
+		(at 1.6 1)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "03d194e1-3c97-43ad-b399-549a4acea6cc")
+	)
+	(pad "MP" smd roundrect
+		(at 0 -3.1 90)
+		(size 1.5 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "0d9cfe93-81b7-45b0-8808-cbf35fe8d0ed")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/GT-BTP16003-0180B-014B.step"
+		(offset
+			(xyz -2.4 -1.2 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

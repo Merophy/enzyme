@@ -1,0 +1,331 @@
+(footprint "M2.5_5mm_Round_Standoff"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Patch round nut ")
+	(property "Reference" "REF**"
+		(at 0 4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e44af730-3241-4e66-8564-b433af58f00d")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "M2.5_5mm_Round_Standoff"
+		(at 0 5.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52728b63-a228-40e8-ab13-6e313317065a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/product-detail/Patch-round-nut_Sinhoo-SMTSO2550CTJ_C2916359.html"
+		(at 0 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb11f933-dfcb-4687-b452-ec85619d237e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SMTSO2550CTJ"
+		(at 0 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "362ac647-a12b-4a83-b071-97e109d0a4da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part #" "C2916359"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2723485f-6073-405e-92a7-2a9044b87aa6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.199998 -0.399999)
+		(end -3.599999 -0.399999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "0da92abb-f14b-4ae6-b601-da54bbb2a6f3")
+	)
+	(fp_line
+		(start -2.199998 0.400001)
+		(end -3.599999 0.400001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "07d3d7b6-2f88-4fbb-b8ca-389e54321037")
+	)
+	(fp_line
+		(start -0.399999 -2.199998)
+		(end -0.399999 -3.599999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "86420e4e-f03a-48e6-be96-d9faa975a040")
+	)
+	(fp_line
+		(start -0.399999 2.2)
+		(end -0.399999 3.600001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "56a70377-7c9e-485a-9785-bec6a97f194c")
+	)
+	(fp_line
+		(start 0.400001 -2.199998)
+		(end 0.400001 -3.599999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "d47fba6f-6610-4147-b18a-cdb07717ce3b")
+	)
+	(fp_line
+		(start 0.400001 3.600001)
+		(end 0.400001 2.2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "be3dcf75-d717-45d5-abc6-a2953bd69eca")
+	)
+	(fp_line
+		(start 2.2 -0.399999)
+		(end 3.600001 -0.399999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "ccc261ad-9288-4cc2-8ae5-7fda77e7ecc7")
+	)
+	(fp_line
+		(start 2.2 0.400001)
+		(end 3.600001 0.400001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "e09d371a-8575-46f3-a3d5-e3ab6037eafa")
+	)
+	(fp_arc
+		(start -3.599999 -0.399999)
+		(mid -2.561249 -2.561249)
+		(end -0.399999 -3.599999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "deb4321d-e4f7-48d5-808b-6c31f35923da")
+	)
+	(fp_arc
+		(start -2.199998 -0.399999)
+		(mid -1.581137 -1.581137)
+		(end -0.399999 -2.199998)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "b2a41898-40a1-4877-bd3a-aec7b617b4ff")
+	)
+	(fp_arc
+		(start -0.399999 2.2)
+		(mid -1.581137 1.581139)
+		(end -2.199998 0.400001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "35ba3703-3a78-4d4d-9f9f-a1341e13b4ab")
+	)
+	(fp_arc
+		(start -0.399999 3.600001)
+		(mid -2.561249 2.561251)
+		(end -3.599999 0.400001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "0d97dbf7-3177-443a-a48f-dbd7a9622923")
+	)
+	(fp_arc
+		(start 0.400001 -3.599999)
+		(mid 2.561251 -2.561249)
+		(end 3.600001 -0.399999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "0c632ee6-6d1a-4685-b70d-d3ff01287830")
+	)
+	(fp_arc
+		(start 0.400001 -2.199998)
+		(mid 1.581139 -1.581137)
+		(end 2.2 -0.399999)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "afbe4a4e-96a4-450a-a17e-a46e6ff028d5")
+	)
+	(fp_arc
+		(start 2.2 0.400001)
+		(mid 1.581139 1.581139)
+		(end 0.400001 2.2)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "cbd02f78-43ae-4cec-9d2b-5656a794e74d")
+	)
+	(fp_arc
+		(start 3.600001 0.400001)
+		(mid 2.561251 2.561251)
+		(end 0.400001 3.600001)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.Paste")
+		(uuid "07f5a034-d1fd-43d6-a5a3-e751e5ac7c51")
+	)
+	(fp_poly
+		(pts
+			(xy -2.199998 0.400001) (xy -3.599999 0.400001) (xy -3.449999 1.060001) (xy -3.119999 1.830001) (xy -2.639999 2.480001)
+			(xy -2.269999 2.820001) (xy -1.899999 3.080001) (xy -1.339999 3.370001) (xy -0.999999 3.480001) (xy -0.399999 3.600001)
+			(xy -0.399999 2.2) (xy -0.759999 2.100001) (xy -1.159999 1.920001) (xy -1.609999 1.550001) (xy -1.959999 1.100001)
+			(xy -2.099999 0.730001)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "a6ed1871-3182-49e0-835a-27ef4df7285d")
+	)
+	(fp_poly
+		(pts
+			(xy -0.399999 -2.199998) (xy -0.399999 -3.599999) (xy -1.059999 -3.449999) (xy -1.829999 -3.119999)
+			(xy -2.479999 -2.639999) (xy -2.819999 -2.269999) (xy -3.079999 -1.899999) (xy -3.369999 -1.339999)
+			(xy -3.479999 -0.999999) (xy -3.599999 -0.399999) (xy -2.199998 -0.399999) (xy -2.099999 -0.759999)
+			(xy -1.919999 -1.159999) (xy -1.549999 -1.609999) (xy -1.099999 -1.959999) (xy -0.729999 -2.099999)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "86643ca0-a075-452f-a293-fd6ba0ca6ad6")
+	)
+	(fp_poly
+		(pts
+			(xy 0.400001 2.2) (xy 0.400001 3.600001) (xy 1.060001 3.450001) (xy 1.830001 3.120001) (xy 2.480001 2.640001)
+			(xy 2.820001 2.270001) (xy 3.080001 1.900001) (xy 3.370001 1.340001) (xy 3.480001 1.000001) (xy 3.600001 0.400001)
+			(xy 2.2 0.400001) (xy 2.100001 0.760001) (xy 1.920001 1.160001) (xy 1.550001 1.610001) (xy 1.100001 1.960001)
+			(xy 0.730001 2.100001)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "ad4e4ee3-2491-4d9c-9817-6332c44b2835")
+	)
+	(fp_poly
+		(pts
+			(xy 2.2 -0.399999) (xy 3.600001 -0.399999) (xy 3.450001 -1.059999) (xy 3.120001 -1.829999) (xy 2.640001 -2.479999)
+			(xy 2.270001 -2.819999) (xy 1.900001 -3.079999) (xy 1.340001 -3.369999) (xy 1.000001 -3.479999) (xy 0.400001 -3.599999)
+			(xy 0.400001 -2.199998) (xy 0.760001 -2.099999) (xy 1.160001 -1.919999) (xy 1.610001 -1.549999) (xy 1.960001 -1.099999)
+			(xy 2.100001 -0.729999)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "7630085d-ea47-40cd-82ad-c33b00e3f0f2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 7.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "80ff5fe8-6f02-46c6-bf14-28cbdff87568")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0.000001 0.000001)
+		(size 7.4 7.4)
+		(drill 4.25)
+		(layers "*.Cu" "F.Mask")
+		(remove_unused_layers no)
+		(uuid "0122f755-712c-46ee-9f6e-d309ac77d2ef")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/M2.5_5mm_Round_Standoff.step"
+		(offset
+			(xyz 0 0 -1.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
