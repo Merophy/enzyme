@@ -2862,7 +2862,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "INA180A3"
+	(symbol "INA169"
 		(pin_numbers
 			(hide yes)
 		)
@@ -2881,7 +2881,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "INA180A3"
+		(property "Value" "INA169"
 			(at 1.27 3.81 0)
 			(effects
 				(font
@@ -2891,16 +2891,15 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 0 13.97 0)
+			(at 0 -22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina180.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina169.pdf"
 			(at 0 -20.32 0)
 			(effects
 				(font
@@ -2909,8 +2908,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "26V, 350kHz current sense amplifier 5-SOT-23 -40 to 125"
-			(at 0 0 0)
+		(property "Description" "INA1x9 High-Side Measurement Current Shunt Monitor"
+			(at 0 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,7 +2917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Gain" "100V/V"
+		(property "Gain" "1-100 V/V"
 			(at -5.08 0 90)
 			(effects
 				(font
@@ -2926,7 +2925,7 @@
 				)
 			)
 		)
-		(property "MFR. Part #" "INA180A3IDBVR"
+		(property "MFR. Part #" "INA169NA/3K"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -2935,7 +2934,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C122882"
+		(property "JLCPCB Part #" "C44322"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -2953,7 +2952,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "INA180A3_1_1"
+		(symbol "INA169_1_1"
 			(polyline
 				(pts
 					(xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08) (xy 6.35 0)
@@ -2969,14 +2968,14 @@
 			(pin input line
 				(at -6.35 2.54 0)
 				(length 2.54)
-				(name "IN-"
+				(name "IN+"
 					(effects
 						(font
 							(size 0.7112 0.7112)
 						)
 					)
 				)
-				(number "4"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2987,14 +2986,14 @@
 			(pin input line
 				(at -6.35 -2.54 0)
 				(length 2.54)
-				(name "IN+"
+				(name "IN-"
 					(effects
 						(font
 							(size 0.7112 0.7112)
 						)
 					)
 				)
-				(number "3"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5448,6 +5447,410 @@
 					)
 				)
 				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "LMV324"
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 1.27 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LMV324"
+			(at 1.27 -3.81 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588883680249466880"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Quad 15nA 1V/us 1MHz TSSOP-14 Operational Amplifier ROHS"
+			(at 0 -22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" " LMV324IPWR"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" " C398929"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "amplifier opamp quad 324 TSSOP"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LMV324_1_1"
+			(polyline
+				(pts
+					(xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08) (xy 6.35 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -6.35 2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 8.89 0 180)
+				(length 4.3942)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LMV324_2_1"
+			(polyline
+				(pts
+					(xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08) (xy 6.35 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -6.35 2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 8.89 0 180)
+				(length 4.3942)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LMV324_3_1"
+			(polyline
+				(pts
+					(xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08) (xy 6.35 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -6.35 2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 8.89 0 180)
+				(length 4.3942)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LMV324_4_1"
+			(polyline
+				(pts
+					(xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08) (xy 6.35 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -6.35 2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 -2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 8.89 0 180)
+				(length 4.3942)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LMV324_5_1"
+			(polyline
+				(pts
+					(xy 6.35 0) (xy -3.81 5.08) (xy -3.81 -5.08) (xy 6.35 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at 0 6.35 270)
+				(length 3.2004)
+				(name "VCC+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -6.35 90)
+				(length 3.2004)
+				(name "GND"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "11"
 					(effects
 						(font
 							(size 1.27 1.27)
