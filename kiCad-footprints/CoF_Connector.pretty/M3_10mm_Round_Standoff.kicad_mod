@@ -1,7 +1,7 @@
 (footprint "M3_10mm_Round_Standoff"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -4.4 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "52728b63-a228-40e8-ab13-6e313317065a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 3.3 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "01a78854-17f6-445d-8cc0-f46855592b0c")
 		(effects
 			(font
 				(size 1 1)
@@ -245,7 +232,7 @@
 			(width 0.01)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Paste")
 		(uuid "00b7418b-a53b-4767-9a6b-5ab2791bb7eb")
 	)
@@ -259,7 +246,7 @@
 			(width 0.01)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Paste")
 		(uuid "07fd5f28-4699-46ad-9d8e-ca0668ed5618")
 	)
@@ -273,7 +260,7 @@
 			(width 0.01)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Paste")
 		(uuid "561f7d23-06d7-4504-8816-2139aa5513d6")
 	)
@@ -287,7 +274,7 @@
 			(width 0.01)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.Paste")
 		(uuid "844157dc-4d04-4cd5-bdef-c5caef62efb9")
 	)
@@ -306,11 +293,12 @@
 	(pad "1" thru_hole circle
 		(at 0 0)
 		(size 7.4 7.4)
-		(drill 4.25)
+		(drill 4.1)
 		(layers "*.Cu" "F.Mask")
 		(remove_unused_layers no)
 		(uuid "3bcbf6e4-1d8f-4841-95bd-e40e89ceea23")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/9774100360R.step"
 		(offset
 			(xyz 0 0 -1.4)
