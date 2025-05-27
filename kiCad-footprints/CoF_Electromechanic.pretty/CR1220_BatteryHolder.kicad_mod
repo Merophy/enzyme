@@ -1,0 +1,103 @@
+(footprint "CR1220_BatteryHolder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Battery clip Nickel Phosphor Bronze CR1220 SMD Button And Strip Battery Connector ROHS")
+	(tags "Lithium Battery RTC CR1220")
+	(property "Reference" "REF**"
+		(at 0 7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "10a5fa25-51b8-47e3-acf6-58ec9e176e3c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Untitled"
+		(at 0 8.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8289e345-0700-4010-8c9c-0cb22e977b84")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2411280017_MYOUNG-MY-1220-03-K_C20606802.pdf"
+		(at 0 7.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c468ca5-1318-4dcb-ad78-c945cf70d2d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Battery clip Nickel Phosphor Bronze CR1220 SMD Button And Strip Battery Connector ROHS"
+		(at 0 7.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb25d7c6-0761-4ae5-84c1-e3dd0829ee59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 0 0)
+		(end 5.7 0)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6400396f-b1b6-4ffb-bc93-4ec54061d5c9")
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 11 11)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1a15738d-c776-4c14-ab94-aaecb4217805")
+	)
+	(pad "2" smd roundrect
+		(at -8 0)
+		(size 4 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "9882ed21-641c-4cb3-b9c1-cad190900380")
+	)
+	(pad "2" smd roundrect
+		(at 8 0)
+		(size 4 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "f53cc113-037a-4801-8ce0-9cc3fcbc5402")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Electromechanic/CR1220_Holder.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1274,7 +1274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CoF_Modules:STLinkV3"
 			(at 0 0 0)
 			(effects
 				(font

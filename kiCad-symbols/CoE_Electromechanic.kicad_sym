@@ -257,7 +257,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CoF_Electromechanic:LineerPot"
 			(at 0 10.795 0)
 			(effects
 				(font
@@ -276,7 +276,7 @@
 			)
 		)
 		(property "Description" "±30% 10kΩ SMD Variable Resistors/Potentiometers ROHS"
-			(at 0 0 0)
+			(at 0 -10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -493,8 +493,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 1.524 90)
+		(property "Footprint" "CoF_Electromechanic:CR1220_BatteryHolder"
+			(at 0 -20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -642,7 +642,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 0.9906 0.9906)
@@ -660,7 +660,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "1"
 					(effects
 						(font
 							(size 0.9906 0.9906)

@@ -5482,7 +5482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CoF_SmallOutline:TSSOP-14"
 			(at 0 13.97 0)
 			(effects
 				(font

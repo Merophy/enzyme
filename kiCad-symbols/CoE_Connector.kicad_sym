@@ -9407,7 +9407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CoF_Electromechanic:MicroSD_Card_Slot"
 			(at 29.21 7.62 0)
 			(effects
 				(font

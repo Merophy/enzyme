@@ -1,0 +1,204 @@
+(footprint "LineerPot"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD Potentiometers, Variable Resistors ROHS")
+	(tags "SMD Potentiometers, Variable Resistors ROHS")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(uuid "7c9819aa-652a-4aa4-a717-c57cb602a23e")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "RS08U111Z001"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "abaf343f-28e9-495b-9e25-911c24108dc8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589784530509852672"
+		(at -2.3 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e84fbc7d-1e15-43ad-bd4f-6ca805fa5e72")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SMD Potentiometers, Variable Resistors ROHS"
+		(at -2.3 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "630f862e-0d8e-49a1-bcde-15d76a9e80d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.7 -1.6)
+		(end 6.7 -1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "30c5485b-771a-4d79-be0f-86b696d96e2f")
+	)
+	(fp_line
+		(start -6.7 -1.2)
+		(end -6.7 -1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6cf7deb5-b3b5-4ef2-b4ed-cd213b33e224")
+	)
+	(fp_line
+		(start -6.7 1.6)
+		(end -6.7 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6ba7d50e-684d-43e8-8f1d-f4bb8db67836")
+	)
+	(fp_line
+		(start -4.7 1.6)
+		(end -6.7 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7b033364-e626-48f6-8d3b-df106a0f7220")
+	)
+	(fp_line
+		(start 3.3 1.6)
+		(end -3.3 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d113f8fb-a562-41f1-a25f-8b49f5ec1912")
+	)
+	(fp_line
+		(start 6.7 -1.6)
+		(end 6.7 -1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cdefdda3-08c2-40a7-b7ef-4efea858e15c")
+	)
+	(fp_line
+		(start 6.7 1.2)
+		(end 6.7 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7b846a13-6419-4c3b-8836-a797850efe1c")
+	)
+	(fp_line
+		(start 6.7 1.6)
+		(end 4.7 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b5621fa6-1572-45bc-824e-946b23f721b8")
+	)
+	(pad "" np_thru_hole circle
+		(at -4 0)
+		(size 0.9 0.9)
+		(drill 0.9)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "938b110f-6f1d-4e9c-8d4d-6f94b92ebfbe")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 1.1 1.1)
+		(drill 1.1)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "6ade2f00-adbe-4b12-bedf-0f1ef829d82e")
+	)
+	(pad "1" smd roundrect
+		(at -6.9 0.6)
+		(size 1.6 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "d1ca1a47-00e1-48d2-87e6-b072037ea86a")
+	)
+	(pad "2" smd roundrect
+		(at -6.9 -0.6)
+		(size 1.6 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "d999ba1b-bdc0-4282-97d1-46e64544f89d")
+	)
+	(pad "3" smd roundrect
+		(at 6.9 0.6)
+		(size 1.6 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "52a12169-5dbe-464d-953a-4593798a439b")
+	)
+	(pad "G" smd roundrect
+		(at -4 1.8)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "1446d554-9f9a-4845-89f2-c50abef24f5d")
+	)
+	(pad "G" smd roundrect
+		(at 4 1.8)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "77d5d56c-9b58-4e79-8f8a-b91d28d90061")
+	)
+	(pad "NC" smd roundrect
+		(at 6.9 -0.6)
+		(size 1.6 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "9e0147b4-9444-489c-aa66-fd0176d909ba")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Electromechanic/RS08U111Z001.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
