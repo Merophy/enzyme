@@ -2992,7 +2992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CoF_Diode:LED_2835"
+		(property "Footprint" "CoF_Diode:LED_2835_Inverse"
 			(at 0 10.16 0)
 			(effects
 				(font
