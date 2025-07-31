@@ -67,7 +67,7 @@
 		(uuid "abea138d-2e32-47db-a661-93b713f80e70")
 	)
 	(embedded_fonts no)
-	(model "/Users/emreerbas/Desktop/Kirke/NidusMentis/Cerebrum/Epiphysis/enzyme/kiCad-solids/Mechanic/M3_LowHead.step"
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Mechanic/M3_LowHead.step"
 		(offset
 			(xyz 0 0 -5)
 		)
