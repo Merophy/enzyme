@@ -63,7 +63,7 @@
 			(type solid)
 		)
 		(fill yes)
-		(layer "F.Fab")
+		(layer "User.1")
 		(uuid "abea138d-2e32-47db-a661-93b713f80e70")
 	)
 	(embedded_fonts no)
