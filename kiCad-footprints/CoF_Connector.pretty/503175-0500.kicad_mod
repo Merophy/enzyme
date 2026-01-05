@@ -6,7 +6,7 @@
 	(descr "5 Position Receptacle Connector 0.059\" (1.50mm) Through Hole, Right Angle Tin")
 	(tags "connector Molex CLIK-Mate top entry")
 	(property "Reference" "REF**"
-		(at -6.9 -9.2 0)
+		(at 0 -1.6 0)
 		(layer "F.SilkS")
 		(uuid "cb39e126-9cf5-4d3e-9522-24bea719dc91")
 		(effects
@@ -167,14 +167,14 @@
 		(at -4.55 1.85)
 		(size 1.1 1.1)
 		(drill 1.1)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "fc171609-1d30-4a3e-b5d5-68e16b1f9a0e")
 	)
 	(pad "" np_thru_hole circle
 		(at 4.55 1.85)
 		(size 1.1 1.1)
 		(drill 1.1)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "3ff942d2-2547-4545-b68d-596753388335")
 	)
 	(pad "1" thru_hole roundrect
@@ -229,6 +229,17 @@
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/5031750500.step"
+		(offset
+			(xyz 0 -9.2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/5031750500.step"
 		(offset
 			(xyz 0 -9.2 0)
 		)

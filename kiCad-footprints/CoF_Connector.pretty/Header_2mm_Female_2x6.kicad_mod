@@ -412,4 +412,15 @@
 			(xyz -0 -0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/Header_female_2x6_2mm.step"
+		(offset
+			(xyz 0 0 1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

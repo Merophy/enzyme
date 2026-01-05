@@ -267,4 +267,26 @@
 			(xyz 90 0 -180)
 		)
 	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/5025840560.step"
+		(offset
+			(xyz 0 2.25 9.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 180)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/502578-0500_WithCableAsm.step"
+		(offset
+			(xyz 0 1 18.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -180)
+		)
+	)
 )

@@ -310,4 +310,15 @@
 			(xyz -0 -0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/SMTSO30120.step"
+		(offset
+			(xyz 0 0 -1.57)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

@@ -1,26 +1,151 @@
-(footprint "C-1206" (version 20211014) (generator pcbnew)
-  (layer "F.Cu")
-  (tedit 6328519C)
-  (attr through_hole)
-  (fp_text reference "REF**" (at 0 -1.35) (layer "F.SilkS")
-    (effects (font (size 0.6 0.6) (thickness 0.1)))
-    (tstamp 87c78429-be2b-40ed-8d3b-56cb9666a56f)
-  )
-  (fp_text value "C-1206" (at 0 1.65) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp edc9ab4f-487a-48dc-95f2-4d87f0e9cf9e)
-  )
-  (fp_line (start -0.9 0.75) (end 0.9 0.75) (layer "F.SilkS") (width 0.15) (tstamp 46cfd089-6873-4d8b-89af-02ff30e49472))
-  (fp_line (start -0.9 -0.75) (end 0.9 -0.75) (layer "F.SilkS") (width 0.15) (tstamp bb4f0314-c44c-4dda-b85c-537120eaae9a))
-  (fp_line (start 2.25 -0.95) (end 2.25 0.95) (layer "F.CrtYd") (width 0.025) (tstamp 0f3c9e3a-9c59-4881-b27a-d0e982b3ea8e))
-  (fp_line (start 2.25 0.95) (end -2.25 0.95) (layer "F.CrtYd") (width 0.025) (tstamp 825c70b0-4860-42b7-97dc-86bfa46e06fd))
-  (fp_line (start -2.25 -0.95) (end 2.25 -0.95) (layer "F.CrtYd") (width 0.025) (tstamp bbb15673-6d42-42b8-9d51-7515b3ad9ee9))
-  (fp_line (start -2.25 0.95) (end -2.25 -0.95) (layer "F.CrtYd") (width 0.025) (tstamp e83e0227-ac0f-4180-82bd-68d3a7b56476))
-  (pad "1" smd roundrect (at -1.575 0) (size 1.15 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 02165243-61a3-4857-84ba-71a77cb9a387))
-  (pad "2" smd roundrect (at 1.575 0) (size 1.15 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9ff4672a-e1a4-4a1e-887d-1b9a3429d278))
-  (model "${KIPRJMOD}/enzyme/kiCad-solids/Capacitors/C-1206-3216.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "C-1206"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.35 0)
+		(layer "F.SilkS")
+		(uuid "87c78429-be2b-40ed-8d3b-56cb9666a56f")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "C-1206"
+		(at 0 1.65 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "edc9ab4f-487a-48dc-95f2-4d87f0e9cf9e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0b050cf-3cd3-4120-83c2-06beb09a301b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4c4069c-3096-4628-ae5e-c829e738cf66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.9 -0.75)
+		(end 0.9 -0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c9e645b-5033-4136-8992-82f7b5cf79d2")
+	)
+	(fp_line
+		(start -0.9 0.75)
+		(end 0.9 0.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "984eb48d-02ec-43de-8c39-d2aab5be9b78")
+	)
+	(fp_line
+		(start -2.1 -0.9)
+		(end 2.1 -0.9)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "11365ae9-21f0-494c-a88b-b3560e700dbf")
+	)
+	(fp_line
+		(start -2.1 0.9)
+		(end -2.1 -0.9)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0f2f1fd0-6bb1-42e5-a949-d28bb91df0dd")
+	)
+	(fp_line
+		(start 2.1 -0.9)
+		(end 2.1 0.9)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bdfe6091-cf0f-476d-9a86-540f7a161c0c")
+	)
+	(fp_line
+		(start 2.1 0.9)
+		(end -2.1 0.9)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7ed81d62-91ab-4019-87bd-08aa09d64182")
+	)
+	(pad "1" smd roundrect
+		(at -1.5 0)
+		(size 1 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "5e143f79-8225-4961-bb47-fcc081b88d71")
+	)
+	(pad "2" smd roundrect
+		(at 1.5 0)
+		(size 1 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "3f9e1841-07bf-484f-a100-d3ae70c5a596")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Capacitors/C-1206-3216.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Capacitors/C-1206-3216.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

@@ -537,19 +537,18 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/Skynode.step"
-		(hide yes)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/Skynode_X_3Dmodel.step"
 		(offset
-			(xyz 52 26 24)
+			(xyz 52 26 12)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 -0 90)
+			(xyz -90 -0 180)
 		)
 	)
-	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/Skynode_X_3Dmodel.step"
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Modules/Skynode_X_3Dmodel.step"
 		(offset
 			(xyz 52 26 12)
 		)

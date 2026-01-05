@@ -1,7 +1,7 @@
 (footprint "Buzzer_42mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 9 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "34d815bb-ca09-417e-959f-0f54aa5261d7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 9.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "c94e2d9f-6582-4c2b-a9e4-4b2e4f53a1f6")
 		(effects
 			(font
 				(size 1 1)
@@ -73,7 +60,7 @@
 			(width 0.12)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "22b3273b-4384-4c4e-b83c-8b93e3893f22")
 	)
@@ -84,7 +71,7 @@
 			(width 0.12)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "29e9e31c-8b35-43a9-a41d-af004baec49d")
 	)
@@ -95,7 +82,7 @@
 			(width 0.2)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "5c5a2a58-2dd9-4cd0-9164-1c6600dfe121")
 	)
@@ -114,17 +101,18 @@
 	(pad "1" smd roundrect
 		(at -25 0)
 		(size 4 2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.2)
 		(uuid "2c9d4423-30c5-41a4-8e81-70522d81b8d7")
 	)
 	(pad "2" smd roundrect
 		(at -25 5)
 		(size 4 2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.2)
 		(uuid "3fdb2bc7-f267-47c8-a373-265bc84d0de2")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Modules/Same_Sky_CPE-420.step"
 		(offset
 			(xyz 0 0 11.2)
@@ -134,6 +122,17 @@
 		)
 		(rotate
 			(xyz 90 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Modules/Same_Sky_CPE-420.step"
+		(offset
+			(xyz 0 0 11.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -0)
 		)
 	)
 )

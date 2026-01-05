@@ -287,4 +287,15 @@
 			(xyz -90 -0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Resistors/R-0603-1609.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

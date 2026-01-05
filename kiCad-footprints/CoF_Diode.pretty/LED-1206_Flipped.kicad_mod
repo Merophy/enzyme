@@ -1,7 +1,7 @@
 (footprint "LED-1206_Flipped"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -2.6 0 90)
@@ -22,18 +22,6 @@
 			(font
 				(size 0.8 0.8)
 				(thickness 0.1)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at -0.05 1.2 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "27b1cb77-ad26-489f-96af-47ea1c73ced7")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
 			)
 		)
 	)
@@ -70,7 +58,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "58c7186f-61a2-4be6-a96b-396868cd2ef2")
 	)
@@ -82,7 +70,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "07c81b6e-b7a8-4c81-b488-577abf70181c")
 	)
@@ -213,7 +201,7 @@
 	(pad "1" smd roundrect
 		(at -1.6 0)
 		(size 1 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0)
 		(chamfer_ratio 0.2)
 		(chamfer top_left bottom_left)
@@ -222,12 +210,13 @@
 	(pad "2" smd roundrect
 		(at 1.6 0 180)
 		(size 1 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0)
 		(chamfer_ratio 0.2)
 		(chamfer top_left bottom_left)
 		(uuid "429ab4e1-b9ca-4ff8-92a6-f80b09a2678b")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Diodes/LED-1206_btm.step"
 		(offset
 			(xyz 0 0 0.2)
@@ -249,6 +238,28 @@
 		)
 		(rotate
 			(xyz 0 180 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Diodes/LED-1206_btm.step"
+		(offset
+			(xyz 0 0 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Diodes/LED-1206_top_R.step"
+		(offset
+			(xyz 0 0 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 180 -0)
 		)
 	)
 )

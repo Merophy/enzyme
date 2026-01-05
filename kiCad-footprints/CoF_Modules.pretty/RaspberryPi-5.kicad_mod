@@ -12640,4 +12640,15 @@
 			(xyz -90 -0 -180)
 		)
 	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Modules/RaspberryPi-5.STEP"
+		(offset
+			(xyz 1.9 -0.6 10)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )

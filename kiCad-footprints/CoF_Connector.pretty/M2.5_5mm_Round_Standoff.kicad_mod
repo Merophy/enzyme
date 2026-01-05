@@ -328,4 +328,15 @@
 			(xyz -0 -0 -0)
 		)
 	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/M2.5_5mm_Round_Standoff.step"
+		(offset
+			(xyz 0 0 -1.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

@@ -1,7 +1,7 @@
 (footprint "M2_1mm_Round_Standoff"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Patch round nut ")
 	(property "Reference" "REF**"
@@ -21,19 +21,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "52728b63-a228-40e8-ab13-6e313317065a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 3.3 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "01a78854-17f6-445d-8cc0-f46855592b0c")
 		(effects
 			(font
 				(size 1 1)
@@ -370,6 +357,7 @@
 		(remove_unused_layers no)
 		(uuid "3bcbf6e4-1d8f-4841-95bd-e40e89ceea23")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/M2_8mm_Round_Standoff.step"
 		(offset
 			(xyz 0 0 -1.4)
@@ -379,6 +367,17 @@
 		)
 		(rotate
 			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/M2_8mm_Round_Standoff.step"
+		(offset
+			(xyz 0 0 -1.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
 		)
 	)
 )
