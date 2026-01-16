@@ -175,14 +175,14 @@
 			(pin passive line
 				(at 3.81 0 180)
 				(length 1.27)
-				(name "3"
+				(name "2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "3"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)

@@ -1,9 +1,9 @@
-(footprint "BM04B-GHS-TBT"
+(footprint "SM04B-GHS-TB"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "JST GH series connector, BM04B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator")
+	(descr "JST GH series connector, SM04B-GHS-TB ")
 	(tags "connector JST GH side entry")
 	(property "Reference" "J8"
 		(at 0 -4 0)
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "USB"
+	(property "Value" "JST-SM"
 		(at 0 4 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -29,11 +29,11 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588905132734365696"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "42100001-bf8e-4618-acaa-6651630601e0")
+		(uuid "e87bece6-9b4c-46b5-be01-43773384fb6c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "612838b7-a7f7-4e3a-aa0c-b63425d0cd7d")
+		(uuid "eef027ff-4d71-4758-9982-12d1412a6ffa")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -75,8 +75,8 @@
 		(uuid "84bb7c32-34c3-4d85-9b06-8754ebd07667")
 	)
 	(fp_line
-		(start -2.965 -2.7)
-		(end 2.965 -2.7)
+		(start -3.1 -2.61)
+		(end 3.1 -2.61)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -115,7 +115,7 @@
 		(uuid "94a1c51b-a034-4b45-9e36-ba1013a3987a")
 	)
 	(fp_line
-		(start -4.35 -2.9)
+		(start -4.35 -2.7)
 		(end -4.35 2)
 		(stroke
 			(width 0.05)
@@ -175,8 +175,8 @@
 		(uuid "8d53b0ea-ec4d-4a6f-ac32-7bf0b02c2ca9")
 	)
 	(fp_line
-		(start 4.35 -2.9)
-		(end -4.35 -2.9)
+		(start 4.35 -2.7)
+		(end -4.35 -2.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -186,7 +186,7 @@
 	)
 	(fp_line
 		(start 4.35 2)
-		(end 4.35 -2.9)
+		(end 4.35 -2.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -235,57 +235,57 @@
 		(uuid "6239a0e0-7e5c-47ef-a97f-4b9e73e4c075")
 	)
 	(pad "1" smd roundrect
-		(at -1.875 1.95)
-		(size 0.6 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-		(uuid "5f9c1059-67c0-4e3e-9fcb-26f52fa8ce6e")
-	)
-	(pad "2" smd roundrect
-		(at -0.625 1.95)
-		(size 0.6 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-		(uuid "3f9762a1-076b-4114-95b9-eef69b0d376a")
-	)
-	(pad "3" smd roundrect
-		(at 0.625 1.95)
-		(size 0.6 1.7)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-		(uuid "afa33b41-2707-4606-b4a6-db3b7213b4af")
-	)
-	(pad "4" smd roundrect
 		(at 1.875 1.95)
 		(size 0.6 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "55b27b01-ad6d-4d48-89ff-513ab4ce2469")
 	)
-	(pad "MP" smd roundrect
-		(at -3.725 -1.4)
-		(size 1 2.8)
+	(pad "2" smd roundrect
+		(at 0.625 1.95)
+		(size 0.6 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
+		(uuid "afa33b41-2707-4606-b4a6-db3b7213b4af")
+	)
+	(pad "3" smd roundrect
+		(at -0.625 1.95)
+		(size 0.6 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "3f9762a1-076b-4114-95b9-eef69b0d376a")
+	)
+	(pad "4" smd roundrect
+		(at -1.875 1.95)
+		(size 0.6 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "5f9c1059-67c0-4e3e-9fcb-26f52fa8ce6e")
+	)
+	(pad "MP" smd roundrect
+		(at -3.725 -1.2)
+		(size 1 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
 		(uuid "cf83b53e-0675-4c51-a2ae-2513d87418b6")
 	)
 	(pad "MP" smd roundrect
-		(at 3.725 -1.4)
+		(at 3.725 -1.2)
 		(size 1 2.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
+		(roundrect_rratio 0.15)
 		(uuid "d181676b-a945-48d2-8028-37344bde222d")
 	)
 	(embedded_fonts no)
-	(model "${AVY_3DMODELS}/Connectors/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.step"
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/SM04B-GHS-TB.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0.4 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 -180)
 		)
 	)
 )

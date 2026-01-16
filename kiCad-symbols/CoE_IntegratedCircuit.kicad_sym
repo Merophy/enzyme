@@ -213,7 +213,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm"
+		(property "Footprint" "CoF_SmallOutline:VSSOP10_3x3mm"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -3577,7 +3577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+		(property "Footprint" "CoF_SmallOutline:VSSOP10_3x3mm"
 			(at 0 -27.94 0)
 			(effects
 				(font
@@ -3859,7 +3859,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+		(property "Footprint" "CoF_SmallOutline:VSSOP10_3x3mm"
 			(at 0 -27.94 0)
 			(effects
 				(font
@@ -7341,8 +7341,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 12.7 0)
+		(property "Footprint" "CoF_QuadFlat:QFN-32-EP"
+			(at 0 -33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7418,7 +7418,7 @@
 			)
 		)
 		(symbol "LT8645S_1_1"
-			(pin power_in line
+			(pin passive line
 				(at -12.7 10.16 0)
 				(length 2.54)
 				(hide yes)
@@ -7437,7 +7437,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -12.7 10.16 0)
 				(length 2.54)
 				(hide yes)
@@ -7456,7 +7456,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -12.7 10.16 0)
 				(length 2.54)
 				(hide yes)
@@ -7493,7 +7493,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -12.7 10.16 0)
 				(length 2.54)
 				(hide yes)
@@ -7512,7 +7512,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -12.7 10.16 0)
 				(length 2.54)
 				(hide yes)
@@ -7542,44 +7542,6 @@
 					)
 				)
 				(number "25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -12.7 3.81 0)
-				(length 2.54)
-				(hide yes)
-				(name "NC1"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -12.7 2.54 0)
-				(length 2.54)
-				(hide yes)
-				(name "NC2"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7652,6 +7614,44 @@
 					)
 				)
 				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -6.35 3.81 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC1"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -6.35 2.54 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC2"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7754,120 +7754,6 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at 0 -15.24 90)
 				(length 2.54)
@@ -7916,7 +7802,7 @@
 						)
 					)
 				)
-				(number "CP-1"
+				(number "EP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7924,18 +7810,18 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -15.24 90)
+			(pin no_connect line
+				(at 6.35 3.81 180)
 				(length 2.54)
 				(hide yes)
-				(name "GND"
+				(name "NC4"
 					(effects
 						(font
 							(size 0.9906 0.9906)
 						)
 					)
 				)
-				(number "CP-2"
+				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7943,37 +7829,18 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 -15.24 90)
+			(pin no_connect line
+				(at 6.35 2.54 180)
 				(length 2.54)
 				(hide yes)
-				(name "GND"
+				(name "NC3"
 					(effects
 						(font
 							(size 0.9906 0.9906)
 						)
 					)
 				)
-				(number "CP-3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -15.24 90)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "CP-4"
+				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7999,7 +7866,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin passive line
 				(at 12.7 10.16 180)
 				(length 2.54)
 				(hide yes)
@@ -8018,7 +7885,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin passive line
 				(at 12.7 10.16 180)
 				(length 2.54)
 				(hide yes)
@@ -8037,7 +7904,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin passive line
 				(at 12.7 10.16 180)
 				(length 2.54)
 				(hide yes)
@@ -8056,7 +7923,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin passive line
 				(at 12.7 10.16 180)
 				(length 2.54)
 				(hide yes)
@@ -8086,44 +7953,6 @@
 					)
 				)
 				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 12.7 3.81 180)
-				(length 2.54)
-				(hide yes)
-				(name "NC4"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 12.7 2.54 180)
-				(length 2.54)
-				(hide yes)
-				(name "NC3"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10658,7 +10487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CoF_QuadFlat:QFN-24-EP"
 			(at 20.32 -24.13 0)
 			(effects
 				(font
@@ -12614,90 +12443,14 @@
 				(at 0 -17.78 90)
 				(length 2.54)
 				(hide yes)
-				(name "PAD"
+				(name "GND"
 					(effects
 						(font
 							(size 0.9906 0.9906)
 						)
 					)
 				)
-				(number "25"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -17.78 90)
-				(length 2.54)
-				(hide yes)
-				(name "PAD"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "26"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -17.78 90)
-				(length 2.54)
-				(hide yes)
-				(name "PAD"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "27"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -17.78 90)
-				(length 2.54)
-				(hide yes)
-				(name "PAD"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "28"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -17.78 90)
-				(length 2.54)
-				(hide yes)
-				(name "PAD"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "29"
+				(number "EP"
 					(effects
 						(font
 							(size 0.9906 0.9906)
@@ -17983,7 +17736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_BGA:TFBGA-265_14x14mm_Layout17x17_P0.8mm"
+		(property "Footprint" "CoE_BallGridArray:TFBGA265_14x14mm"
 			(at 0 -114.3 0)
 			(effects
 				(font
@@ -27012,7 +26765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.45x1.45mm"
+		(property "Footprint" "CoF_QuadFlat:QFN-16-EP"
 			(at 0 -25.4 0)
 			(effects
 				(font
@@ -27162,7 +26915,7 @@
 						)
 					)
 				)
-				(number "17"
+				(number "EP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -27238,7 +26991,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 0 -6.35 90)
 				(length 3.2004)
 				(name "nSHDN12"
@@ -27324,7 +27077,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 0 -6.35 90)
 				(length 3.2004)
 				(name "nSHDN34"
@@ -27718,7 +27471,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm"
+		(property "Footprint" "CoF_QuadFlat:QFN-20-EP"
 			(at 0 -27.94 0)
 			(effects
 				(font
@@ -28001,82 +27754,6 @@
 					(type none)
 				)
 			)
-			(pin no_connect line
-				(at -19.05 -2.54 0)
-				(length 2.54)
-				(hide yes)
-				(name "NC1"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -19.05 -5.08 0)
-				(length 2.54)
-				(hide yes)
-				(name "NC3"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -19.05 -7.62 0)
-				(length 2.54)
-				(hide yes)
-				(name "NC4"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -19.05 -10.16 0)
-				(length 2.54)
-				(hide yes)
-				(name "NC5"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at -15.24 7.62 0)
 				(length 2.54)
@@ -28095,7 +27772,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -15.24 7.62 0)
 				(length 2.54)
 				(hide yes)
@@ -28186,6 +27863,25 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at -2.54 3.81 270)
+				(length 2.54)
+				(hide yes)
+				(name "NC5"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+			)
 			(pin passive line
 				(at -2.54 -12.7 90)
 				(length 2.54)
@@ -28197,6 +27893,25 @@
 					)
 				)
 				(number "8"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 0 3.81 270)
+				(length 2.54)
+				(hide yes)
+				(name "NC4"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "18"
 					(effects
 						(font
 							(size 0.9906 0.9906)
@@ -28222,6 +27937,25 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at 2.54 3.81 270)
+				(length 2.54)
+				(hide yes)
+				(name "NC3"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+			)
 			(pin passive line
 				(at 2.54 -12.7 90)
 				(length 2.54)
@@ -28233,6 +27967,25 @@
 					)
 				)
 				(number "10"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 5.08 3.81 270)
+				(length 2.54)
+				(hide yes)
+				(name "NC1"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "2"
 					(effects
 						(font
 							(size 0.9906 0.9906)
@@ -28287,6 +28040,25 @@
 					)
 				)
 				(number "7"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -12.7 90)
+				(length 2.54)
+				(hide yes)
+				(name "GND"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "EP"
 					(effects
 						(font
 							(size 0.9906 0.9906)
