@@ -29,7 +29,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2112061830_Sinhoo-SMTSO42100CTJ_C2916346.pdf"
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2112061830_Sinhoo-SMTSO42100CTJ_C2916346.pdf"
 		(at 0 7.3 0)
 		(unlocked yes)
 		(layer "F.Fab")
