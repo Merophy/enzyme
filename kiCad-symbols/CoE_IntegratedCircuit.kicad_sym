@@ -6122,7 +6122,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -7.62 11.43 0)
+			(at -7.62 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6131,7 +6131,7 @@
 			)
 		)
 		(property "Value" "LMG1210"
-			(at 10.16 11.43 0)
+			(at 10.16 13.97 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -6140,7 +6140,7 @@
 			)
 		)
 		(property "Footprint" "CoF_QuadFlat:QFN-19-2EP"
-			(at 0 15.24 0)
+			(at 0 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6149,15 +6149,6 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lmg1210.pdf"
-			(at 0 -15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200V 1.5A/3A Half-Bridge GaN FET Gate Driver, 50MHz, Adjustable Dead Time, 6V~18V VIN, 5V LDO, WQFN-19-EP(3x4) Gate Drivers ROHS"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -6166,7 +6157,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR. Part #" "LMG1210RVRR"
+		(property "Description" "200V 1.5A/3A Half-Bridge GaN FET Gate Driver, 50MHz, Adjustable Dead Time, 6V~18V VIN, 5V LDO, WQFN-19-EP(3x4) Gate Drivers ROHS"
 			(at 0 -20.32 0)
 			(effects
 				(font
@@ -6175,8 +6166,17 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2677136"
+		(property "MFR. Part #" "LMG1210RVRR"
 			(at 0 -22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2677136"
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6204,8 +6204,8 @@
 		)
 		(symbol "LMG1210_0_1"
 			(rectangle
-				(start -10.16 10.16)
-				(end 10.16 -10.16)
+				(start -10.16 12.7)
+				(end 10.16 -12.7)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -6236,7 +6236,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 7.62 0)
+				(at -12.7 10.16 0)
 				(length 2.54)
 				(name "VIN"
 					(effects
@@ -6254,7 +6254,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -7.62 180)
+				(at 12.7 -10.16 180)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -6272,7 +6272,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 -2.54 180)
+				(at 12.7 -5.08 180)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -6290,7 +6290,7 @@
 				)
 			)
 			(pin input line
-				(at -1.27 -12.7 90)
+				(at -1.27 -15.24 90)
 				(length 2.54)
 				(name "DHL"
 					(effects
@@ -6308,7 +6308,7 @@
 				)
 			)
 			(pin input line
-				(at 1.27 -12.7 90)
+				(at 1.27 -15.24 90)
 				(length 2.54)
 				(name "DLH"
 					(effects
@@ -6326,7 +6326,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -7.62 180)
+				(at 12.7 -10.16 180)
 				(length 2.54)
 				(hide yes)
 				(name "VSS"
@@ -6345,7 +6345,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 -5.08 180)
+				(at 12.7 -7.62 180)
 				(length 2.54)
 				(name "LO"
 					(effects
@@ -6363,7 +6363,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 2.54 180)
+				(at 12.7 5.08 180)
 				(length 2.54)
 				(name "HS"
 					(effects
@@ -6381,7 +6381,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 5.08 180)
+				(at 12.7 7.62 180)
 				(length 2.54)
 				(name "HO"
 					(effects
@@ -6418,7 +6418,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 7.62 180)
+				(at 12.7 10.16 180)
 				(length 2.54)
 				(name "HB"
 					(effects
@@ -6436,7 +6436,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 2.54 180)
+				(at 12.7 5.08 180)
 				(length 2.54)
 				(hide yes)
 				(name "HS"
@@ -6493,7 +6493,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 2.54 180)
+				(at 12.7 5.08 180)
 				(length 2.54)
 				(hide yes)
 				(name "HS"
@@ -6512,7 +6512,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 12.7 270)
+				(at 0 15.24 270)
 				(length 2.54)
 				(name "BST"
 					(effects
@@ -6530,7 +6530,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -2.54 0)
+				(at -12.7 -5.08 0)
 				(length 2.54)
 				(name "EN/HI"
 					(effects
@@ -6548,7 +6548,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -5.08 0)
+				(at -12.7 -7.62 0)
 				(length 2.54)
 				(name "PWM/LI"
 					(effects
@@ -6566,7 +6566,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -7.62 180)
+				(at 12.7 -10.16 180)
 				(length 2.54)
 				(hide yes)
 				(name "VSS"
@@ -6585,7 +6585,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 2.54 180)
+				(at 12.7 5.08 180)
 				(length 2.54)
 				(hide yes)
 				(name "HS"
