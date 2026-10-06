@@ -1,0 +1,213 @@
+(footprint "Header_1.27mm_Male_2x5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "2x5 SMD male pin header, 1.27mm pitch, 1.0mm insulator, 3.8mm pins, XFCN PZ127VS-12-10-H10-A38; pads per XFCN drawing (0.74x2.8mm, rows 3.7mm)")
+	(tags "connector pin header male 1.27mm 2x05 SMD")
+	(property "Reference" "REF**"
+		(at 0 -4.1 0)
+		(layer "F.SilkS")
+		(uuid "1749b976-8b18-47c3-b717-e228ccb4343a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Header_1.27mm_Male_2x5"
+		(at 0 4.1 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8749e61b-6361-48c8-a3c9-8492fffa46e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "449208c1-0a70-4216-9c97-f832f2cdd3d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37f6a1ac-5700-4030-9b99-49ebb9bc89d3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -3.45 1.85) (xy -3.78 1.61) (xy -3.78 2.09) (xy -3.45 1.85)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "85973883-6644-49bd-8359-5418dba47d41")
+	)
+	(fp_poly
+		(pts
+			(xy -3.175 -1.7) (xy 3.175 -1.7) (xy 3.175 1.7) (xy -2.675 1.7) (xy -3.175 1.2) (xy -3.175 -1.7)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b32e6205-6686-41d3-84aa-2ac88113745d")
+	)
+	(fp_line
+		(start -3.45 -3.5)
+		(end 3.45 -3.5)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "01becbe7-f22c-439b-a889-9615089aacf0")
+	)
+	(fp_line
+		(start -3.45 3.5)
+		(end -3.45 -3.5)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "628aa4a5-c870-4885-b9e9-56f53ee09075")
+	)
+	(fp_line
+		(start 3.45 -3.5)
+		(end 3.45 3.5)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d6d80a3d-315a-4966-b071-c6f784405e97")
+	)
+	(fp_line
+		(start 3.45 3.5)
+		(end -3.45 3.5)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "095a3301-d1a3-4e7f-b556-6615af75a4ab")
+	)
+	(pad "1" smd roundrect
+		(at -2.54 1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "e41e8698-3e58-4578-9340-8495ac239064")
+	)
+	(pad "2" smd roundrect
+		(at -2.54 -1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "37968218-0f6a-4e81-b941-4cd2651cbd0f")
+	)
+	(pad "3" smd roundrect
+		(at -1.27 1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "71ad08ae-e064-4308-8467-5b7cf6f63579")
+	)
+	(pad "4" smd roundrect
+		(at -1.27 -1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "7bc99c91-7193-4b2b-9619-fddf5b4f8559")
+	)
+	(pad "5" smd roundrect
+		(at 0 1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "5aadaf9a-4200-4a98-8cb5-43fc6ee55c08")
+	)
+	(pad "6" smd roundrect
+		(at 0 -1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "781de2e2-3548-4fbb-a2dd-955111404b14")
+	)
+	(pad "7" smd roundrect
+		(at 1.27 1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "42748930-97ea-46ea-8c40-2e553f37eae9")
+	)
+	(pad "8" smd roundrect
+		(at 1.27 -1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "aedfb9ea-0104-4707-9cef-4e9543d42422")
+	)
+	(pad "9" smd roundrect
+		(at 2.54 1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "1c0bca04-7d98-450c-b6c8-85b42e8d0d1d")
+	)
+	(pad "10" smd roundrect
+		(at 2.54 -1.85)
+		(size 0.74 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f7b20481-867d-422b-9b4a-6695825ffc71")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/Header_male_2x5_1.27mm_SMD.step"
+		(offset
+			(xyz 0 0 0.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/Header_male_2x5_1.27mm_SMD.step"
+		(offset
+			(xyz 0 0 0.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

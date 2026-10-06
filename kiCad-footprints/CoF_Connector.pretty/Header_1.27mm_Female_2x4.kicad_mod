@@ -1,0 +1,199 @@
+(footprint "Header_1.27mm_Female_2x4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "2x4 SMD female header, 1.27mm pitch, LAILAN LAIL-PM1.27-4PX2-T; land pattern per LCSC HDR-SMD_8P-P1.27-V-M-R2-C4-LS5.0 (pads 0.74x2.4mm, rows 3.9mm)")
+	(tags "connector female header socket 1.27mm 2x04 SMD")
+	(property "Reference" "REF**"
+		(at 0 -3.9 0)
+		(layer "F.SilkS")
+		(uuid "b36cd5a1-fbfc-4ef6-9980-a8824453ce06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Header_1.27mm_Female_2x4"
+		(at 0 3.9 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "753e3ee7-5ffb-4aee-a333-0a43de4d7246")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bfe47f12-d0d3-475f-95db-500c740be33a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f77a1d70-946e-44bd-9661-2b878327b680")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -2.75 1.95) (xy -3.08 1.71) (xy -3.08 2.19) (xy -2.75 1.95)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "84983dc0-9ecf-4d74-9121-a92c7ca34114")
+	)
+	(fp_poly
+		(pts
+			(xy -2.54 -1.5) (xy 2.54 -1.5) (xy 2.54 1.5) (xy -2.04 1.5) (xy -2.54 1) (xy -2.54 -1.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "bdeda625-cdf6-40a0-81c9-bb9bfa2d05d5")
+	)
+	(fp_line
+		(start -2.8 -3.4)
+		(end 2.8 -3.4)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f0ea2ebe-7c30-4d2f-b184-d17211d8b3bf")
+	)
+	(fp_line
+		(start -2.8 3.4)
+		(end -2.8 -3.4)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9fa25e7e-f498-4a4e-939e-5b432513a1fe")
+	)
+	(fp_line
+		(start 2.8 -3.4)
+		(end 2.8 3.4)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3253249d-9115-468c-9df5-ca9164780c1b")
+	)
+	(fp_line
+		(start 2.8 3.4)
+		(end -2.8 3.4)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "72679c01-e1fb-4f26-8e6b-f079df366c2f")
+	)
+	(pad "1" smd roundrect
+		(at -1.905 1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "59738356-3039-4df4-92ef-0c54163b424e")
+	)
+	(pad "2" smd roundrect
+		(at -1.905 -1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "df50ad8b-b51f-4c37-b7e3-8fd2ceb1758a")
+	)
+	(pad "3" smd roundrect
+		(at -0.635 1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d9fa5f15-f5df-45ec-8a25-0c1a26a4e11c")
+	)
+	(pad "4" smd roundrect
+		(at -0.635 -1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "917d38ef-3872-4751-8d55-438d18119f9d")
+	)
+	(pad "5" smd roundrect
+		(at 0.635 1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "fb09bdd7-725c-457c-9a79-8f2122600492")
+	)
+	(pad "6" smd roundrect
+		(at 0.635 -1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "271dd5c3-d155-4273-9f40-bbdba7adf6c7")
+	)
+	(pad "7" smd roundrect
+		(at 1.905 1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "3827bced-0b97-421f-8c9a-99c0099f5af8")
+	)
+	(pad "8" smd roundrect
+		(at 1.905 -1.95)
+		(size 0.74 2.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d110ff33-c133-4a8f-9ce2-f56065e3fb99")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/Header_female_2x4_1.27mm_SMD.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/Header_female_2x4_1.27mm_SMD.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
