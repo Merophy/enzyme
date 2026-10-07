@@ -1,0 +1,133 @@
+(footprint "C-0603"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Capacitor 0603 (1608 metric)")
+	(tags "capacitor 0603")
+	(property "Reference" "REF**"
+		(at 0 -1 0)
+		(layer "F.SilkS")
+		(uuid "4204f2c2-378e-458f-bdf6-f6a473b69f1e")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "C-0603"
+		(at 0 1.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f0b7fb0-f31b-4f26-93b6-74e06788f3dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29028668-6418-4469-ba14-c5b2946199db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b31ddc03-f0c9-4b06-b3d3-215f67741824")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.2 -0.6)
+		(end 1.2 -0.6)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c0c3d8eb-30d1-47df-a608-12f8c7ed2d16")
+	)
+	(fp_line
+		(start -1.2 0.6)
+		(end -1.2 -0.6)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "293872c5-cdc3-42b3-8066-ec29e64bc84a")
+	)
+	(fp_line
+		(start 1.2 -0.6)
+		(end 1.2 0.6)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c0fbd45-9801-4394-8c11-afcf56449fbd")
+	)
+	(fp_line
+		(start 1.2 0.6)
+		(end -1.2 0.6)
+		(stroke
+			(width 0.025)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a62adae9-7e4a-446d-9385-151dcbb193a1")
+	)
+	(pad "1" smd roundrect
+		(at -0.8 0)
+		(size 0.6 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "c89ac208-c251-4d21-8e2a-94102f77f3bc")
+	)
+	(pad "2" smd roundrect
+		(at 0.8 0)
+		(size 0.6 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "c0a62fb6-0dcb-4b97-977b-d1104a454dd8")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Capacitors/C-0603-1608.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Capacitors/C-0603-1608.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
