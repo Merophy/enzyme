@@ -15438,7 +15438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121449_Sinhoo-SMTSO3080MTJ_C2916368.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208111430_Sinhoo-SMTSO30120CTJ-B_C5138292.pdf"
 			(at 0 -11.684 0)
 			(effects
 				(font
@@ -15465,7 +15465,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C5138292"
+		(property "JLCPCB Part #" "C5138292"
 			(at 0 -9.144 0)
 			(effects
 				(font
@@ -15595,7 +15595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2410121449_Sinhoo-SMTSO3060MTJ_C2916383.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2112061830_Sinhoo-SMTSO3060MTJ_C2916383.pdf"
 			(at 0 -11.684 0)
 			(effects
 				(font
@@ -15622,7 +15622,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2916383"
+		(property "JLCPCB Part #" "C2916383"
 			(at 0 -9.144 0)
 			(effects
 				(font
@@ -15752,7 +15752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121449_Sinhoo-SMTSO3080MTJ_C2916368.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2112061830_Sinhoo-SMTSO3080MTJ_C2916368.pdf"
 			(at 0 -11.684 0)
 			(effects
 				(font
@@ -15779,7 +15779,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2916368"
+		(property "JLCPCB Part #" "C2916368"
 			(at 0 -9.144 0)
 			(effects
 				(font
@@ -15909,7 +15909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2410121449_Sinhoo-SMTSO3220CTJ_C2928172.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201121330_Sinhoo-SMTSO3220CTJ_C2928172.pdf"
 			(at 0 -11.684 0)
 			(effects
 				(font
@@ -15936,7 +15936,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2928172"
+		(property "JLCPCB Part #" "C2928172"
 			(at 0 -9.144 0)
 			(effects
 				(font
