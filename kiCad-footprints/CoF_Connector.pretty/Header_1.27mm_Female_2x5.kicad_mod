@@ -1,14 +1,14 @@
-(footprint "Header_1.27mm_Male_2x5"
+(footprint "Header_1.27mm_Female_2x5"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "2x5 SMD male pin header, 1.27mm pitch, 1.0mm insulator, 3.8mm pins, XFCN PZ127VS-12-10-H10-A38; tight self-centring pads 0.50x1.8mm (lead 0.40mm, lead span 5.5mm)")
-	(tags "connector pin header male 1.27mm 2x05 SMD")
+	(descr "2x5 SMD female header (socket), 1.27mm pitch, LAILAN LAIL-PM1.27-5PX2-T; tight self-centring pads 0.55x1.7mm (lead 0.45mm, lead span 4.8mm)")
+	(tags "connector female header socket 1.27mm 2x05 SMD")
 	(property "Reference" "REF**"
-		(at 0 -4 0)
+		(at 0 -3.7 0)
 		(layer "F.SilkS")
-		(uuid "510a16da-c526-459a-b1a1-e299e10ce081")
+		(uuid "3dafb369-321e-4f61-a19f-2d77432f0151")
 		(effects
 			(font
 				(size 1 1)
@@ -16,11 +16,11 @@
 			)
 		)
 	)
-	(property "Value" "Header_1.27mm_Male_2x5"
-		(at 0 4 0)
+	(property "Value" "Header_1.27mm_Female_2x5"
+		(at 0 3.7 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "92b3ca77-155e-489b-9210-c35b69d3bf29")
+		(uuid "c37f2eab-90be-4eaf-8a74-1a88f1d0e9f0")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7903fddc-50f1-45f9-af20-c42806208d5f")
+		(uuid "39466c57-bdcc-4406-9065-960f4d653cad")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "75e9d0b5-990f-4d14-9c22-a8cd408c7ea2")
+		(uuid "f47b645a-21b7-4458-9dda-25197c6a2da2")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,7 +55,7 @@
 	(attr smd)
 	(fp_poly
 		(pts
-			(xy -3.425 2.1) (xy -3.755 1.86) (xy -3.755 2.34) (xy -3.425 2.1)
+			(xy -3.625 1.85) (xy -3.955 1.61) (xy -3.955 2.09) (xy -3.625 1.85)
 		)
 		(stroke
 			(width 0.12)
@@ -63,11 +63,11 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
-		(uuid "1fbb4aa8-07d8-498e-8b0a-f600c61fd015")
+		(uuid "f287fe02-1ab7-457a-a3cb-0801ea01d4b0")
 	)
 	(fp_poly
 		(pts
-			(xy -3.175 -1.7) (xy 3.175 -1.7) (xy 3.175 1.7) (xy -2.675 1.7) (xy -3.175 1.2) (xy -3.175 -1.7)
+			(xy -3.375 -1.5) (xy 3.375 -1.5) (xy 3.375 1.5) (xy -2.875 1.5) (xy -3.375 1) (xy -3.375 -1.5)
 		)
 		(stroke
 			(width 0.1)
@@ -75,122 +75,122 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "ba563f02-79d7-48ad-8ed6-1b2fd8075581")
+		(uuid "16634be2-5771-4f55-a756-1038e4bc564b")
 	)
 	(fp_line
-		(start -3.425 -3.25)
-		(end 3.425 -3.25)
+		(start -3.625 -2.95)
+		(end 3.625 -2.95)
 		(stroke
 			(width 0.025)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "15fb51c7-16a0-44f7-901b-43d827b4d85b")
+		(uuid "a4335c3e-e9ab-48f0-ba2a-674b191d4006")
 	)
 	(fp_line
-		(start -3.425 3.25)
-		(end -3.425 -3.25)
+		(start -3.625 2.95)
+		(end -3.625 -2.95)
 		(stroke
 			(width 0.025)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "91793efc-8726-4af0-9775-84973207a653")
+		(uuid "6fa966af-bd82-405a-bd62-92f1a5a4810b")
 	)
 	(fp_line
-		(start 3.425 -3.25)
-		(end 3.425 3.25)
+		(start 3.625 -2.95)
+		(end 3.625 2.95)
 		(stroke
 			(width 0.025)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "02f06e2c-0260-4cfe-9692-a22dc5c41ff0")
+		(uuid "eaa95cf2-e155-4800-a230-db0422c90200")
 	)
 	(fp_line
-		(start 3.425 3.25)
-		(end -3.425 3.25)
+		(start 3.625 2.95)
+		(end -3.625 2.95)
 		(stroke
 			(width 0.025)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "3c851e96-57eb-45ff-8723-165e1b65c511")
+		(uuid "872b1302-8663-42da-a82e-bb64d7d5b368")
 	)
 	(pad "1" smd roundrect
-		(at -2.54 2.1)
-		(size 0.5 1.8)
+		(at -2.54 1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "2f07e859-bd50-4645-8432-cb2bc5d4ec5a")
+		(uuid "61fff00e-31ac-42bb-bf3c-5352cc9e58b6")
 	)
 	(pad "2" smd roundrect
-		(at -2.54 -2.1)
-		(size 0.5 1.8)
+		(at -2.54 -1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "1b2769ae-ba54-4524-805b-684f9a944e88")
+		(uuid "bfd0a0e0-5867-4a75-b677-eb4d9a7a32d3")
 	)
 	(pad "3" smd roundrect
-		(at -1.27 2.1)
-		(size 0.5 1.8)
+		(at -1.27 1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "13313c5c-15d1-4821-aaa5-cf345151ab6f")
+		(uuid "be9a1881-1dcd-4fb7-a833-3d2361d5e600")
 	)
 	(pad "4" smd roundrect
-		(at -1.27 -2.1)
-		(size 0.5 1.8)
+		(at -1.27 -1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "ec398df4-ffc8-4be6-9e3e-f8081a5a7f30")
+		(uuid "f5c63539-d2f9-4fa8-9609-3906cb004af7")
 	)
 	(pad "5" smd roundrect
-		(at 0 2.1)
-		(size 0.5 1.8)
+		(at 0 1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "c432c16f-967a-4154-844f-1f4ca7e1d921")
+		(uuid "d08faead-3673-41a3-b3e0-e96bb09f50de")
 	)
 	(pad "6" smd roundrect
-		(at 0 -2.1)
-		(size 0.5 1.8)
+		(at 0 -1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "8bc570a8-943f-4cea-9d26-1041188eb110")
+		(uuid "4bf27d23-10a0-4010-b94f-65ba6826f12c")
 	)
 	(pad "7" smd roundrect
-		(at 1.27 2.1)
-		(size 0.5 1.8)
+		(at 1.27 1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "d4080bd9-2ad0-40d5-a15c-b88aeb8e2e92")
+		(uuid "e1cb3596-b271-4adf-95e9-461ec80a0180")
 	)
 	(pad "8" smd roundrect
-		(at 1.27 -2.1)
-		(size 0.5 1.8)
+		(at 1.27 -1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "f62358ba-04ca-4a81-a077-02f319273c91")
+		(uuid "6789bf04-3a6c-4f8e-b169-531cd2c9fc46")
 	)
 	(pad "9" smd roundrect
-		(at 2.54 2.1)
-		(size 0.5 1.8)
+		(at 2.54 1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "dbf2173f-7ba5-4360-93c6-b7bba4035eb3")
+		(uuid "33e40b0c-0eac-439a-96c7-a2b2ba1575a4")
 	)
 	(pad "10" smd roundrect
-		(at 2.54 -2.1)
-		(size 0.5 1.8)
+		(at 2.54 -1.85)
+		(size 0.55 1.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "fa561f06-0889-422c-a5c5-c6a2644bfc32")
+		(uuid "92a61f21-5dab-41c7-b730-454bdbfd4c90")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/Header_male_2x5_1.27mm_SMD.step"
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Connectors/Header_female_2x5_1.27mm_SMD.step"
 		(offset
-			(xyz 0 0 0.4)
+			(xyz 0 0 0.2)
 		)
 		(scale
 			(xyz 1 1 1)
@@ -199,9 +199,9 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/Header_male_2x5_1.27mm_SMD.step"
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Connectors/Header_female_2x5_1.27mm_SMD.step"
 		(offset
-			(xyz 0 0 0.4)
+			(xyz 0 0 0.2)
 		)
 		(scale
 			(xyz 1 1 1)
