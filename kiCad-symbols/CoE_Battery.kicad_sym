@@ -18,7 +18,7 @@
     (property "JLCPCB Part #" "C80909" (id 5) (at 0 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Manufacturer Part #" "MS621FE-FL11E" (id 6) (at 0 -13.97 0)
+    (property "MFR. Part #" "MS621FE-FL11E" (id 6) (at 0 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "battery cell" (id 7) (at 0 0 0)

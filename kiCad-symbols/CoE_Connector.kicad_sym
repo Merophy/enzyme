@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "0524651071"
+		(property "MFR. Part #" "0524651071"
 			(at 0 -29.21 0)
 			(effects
 				(font
@@ -458,7 +458,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "0524651671"
+		(property "MFR. Part #" "0524651671"
 			(at 1.27 -43.18 0)
 			(effects
 				(font
@@ -1035,7 +1035,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "0533071071"
+		(property "MFR. Part #" "0533071071"
 			(at 0 -29.21 0)
 			(effects
 				(font
@@ -1438,7 +1438,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "0533071671"
+		(property "MFR. Part #" "0533071671"
 			(at 1.27 -43.18 0)
 			(effects
 				(font
@@ -3353,7 +3353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "WM7883CT-ND"
+		(property "Digikey Part #" "WM7883CT-ND"
 			(at 0 -24.13 0)
 			(effects
 				(font
@@ -3362,7 +3362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "538-501331-0607"
+		(property "Mouser Part #" "538-501331-0607"
 			(at 0 -21.59 0)
 			(effects
 				(font
@@ -5863,7 +5863,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "5055680671"
+		(property "MFR. Part #" "5055680671"
 			(at 0 -24.13 0)
 			(effects
 				(font
@@ -6748,7 +6748,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "BM11B-GHS-TBT(LF)(SN)"
+		(property "MFR. Part #" "BM11B-GHS-TBT(LF)(SN)"
 			(at 0 -26.67 0)
 			(effects
 				(font
@@ -13383,7 +13383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "TR34052060-1370 "
+		(property "MFR. Part #" "TR34052060-1370 "
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -13540,7 +13540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "TR34052060-1370 "
+		(property "MFR. Part #" "TR34052060-1370 "
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -13854,7 +13854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "SMTSO3015CTJ"
+		(property "MFR. Part #" "SMTSO3015CTJ"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -14011,7 +14011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "T34080080-0685"
+		(property "MFR. Part #" "T34080080-0685"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -14163,7 +14163,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "5027740891"
+		(property "MFR. Part #" "5027740891"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -14883,7 +14883,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "SM04B-GHS-TB(LF)(SN)"
+		(property "MFR. Part #" "SM04B-GHS-TB(LF)(SN)"
 			(at 0 -26.67 0)
 			(effects
 				(font
@@ -15140,7 +15140,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "SM06B-GHS-TB(LF)(SN)"
+		(property "MFR. Part #" "SM06B-GHS-TB(LF)(SN)"
 			(at 0 -26.67 0)
 			(effects
 				(font
@@ -16988,7 +16988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "WM5587DKR-ND"
+		(property "Digikey Part #" "WM5587DKR-ND"
 			(at 0 -12.7 0)
 			(effects
 				(font
@@ -16997,7 +16997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_PN" "538-73412-0110"
+		(property "Mouser Part #" "538-73412-0110"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -17006,7 +17006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "73412-0110"
+		(property "MFR. Part #" "73412-0110"
 			(at -3.81 0 0)
 			(effects
 				(font
@@ -17332,7 +17332,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAnufacturer Part #" "1054500101"
+		(property "MFR. Part #" "1054500101"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -18049,7 +18049,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "TYPE-C16PIN"
+		(property "MFR. Part #" "TYPE-C16PIN"
 			(at -0.254 -39.624 0)
 			(effects
 				(font

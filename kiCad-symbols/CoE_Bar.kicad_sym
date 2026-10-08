@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr. Part #" "STHW4-DU-HS2002X508"
+		(property "MFR. Part #" "STHW4-DU-HS2002X508"
 			(at 0 -4.826 0)
 			(effects
 				(font
@@ -64,7 +64,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C18548294"
+		(property "JLCPCB Part #" "C18548294"
 			(at 0 -12.7 0)
 			(effects
 				(font

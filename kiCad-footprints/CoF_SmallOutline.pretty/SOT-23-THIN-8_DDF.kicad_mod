@@ -1,14 +1,14 @@
-(footprint "TSOT-23-8"
+(footprint "SOT-23-THIN-8_DDF"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SOT-23-8, 2.9x1.6mm body, 0.65mm pitch, lead span 2.8mm (JEDEC MO-178BA, TI DCN); pads 1.1x0.45, 2.6 row spacing")
-	(tags "SOT-23-8 TSOT-23-8 DCN MO-178BA TCAN330")
+	(descr "TI DDF0008A SOT-23-THIN 8-pin, 2.9x1.6mm body, 1.1mm max height, 0.65mm pitch; pads per TI land pattern example (8X 1.05x0.45, 2.6 row spacing)")
+	(tags "SOT-23-THIN SOT-23-8 DDF TSOT INA241")
 	(property "Reference" "REF**"
 		(at 0 -2.3 0)
 		(layer "F.SilkS")
-		(uuid "52eda690-a31b-46b8-880a-f0a065057fa5")
+		(uuid "dc896b63-8c77-4c89-a543-2be03a09e04a")
 		(effects
 			(font
 				(size 1 1)
@@ -16,11 +16,11 @@
 			)
 		)
 	)
-	(property "Value" "TSOT-23-8"
+	(property "Value" "SOT-23-THIN-8_DDF"
 		(at 0 2.3 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0947da95-0876-41a5-8678-f2385e594965")
+		(uuid "fd8018c8-0623-406a-9843-fe3af9447ddb")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "385cd798-f818-4b08-bbef-07ef0ad9ff5c")
+		(uuid "ce5a0e21-071b-49c0-bf63-d2ae5b57b1a6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "15108cfc-aae4-484e-a1da-796ba371dbac")
+		(uuid "cea16727-e93e-4aec-9316-5442098f9e0e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -63,7 +63,7 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
-		(uuid "8f1fde65-b629-415c-987e-78d1a36394f7")
+		(uuid "61a2dce9-3cb6-4e01-8b99-6a65bd577d3c")
 	)
 	(fp_poly
 		(pts
@@ -75,7 +75,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "c9e981d9-0c87-409f-988b-7212f9e7bd14")
+		(uuid "959e4fff-a377-4322-a55c-1690bc076879")
 	)
 	(fp_line
 		(start -2.1 -1.7)
@@ -85,7 +85,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "b8f698b0-e5c3-4d84-9b05-284fe136c21d")
+		(uuid "b7ee9f10-b67e-472f-9dea-7fa41faee533")
 	)
 	(fp_line
 		(start -2.1 1.7)
@@ -95,7 +95,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "b5696505-7c6a-4216-b0c5-e56d89d41edc")
+		(uuid "d18992eb-a2c8-4faf-be3c-85d03fea2bbc")
 	)
 	(fp_line
 		(start 2.1 -1.7)
@@ -105,7 +105,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "5567a2e4-9d47-4b61-8235-7be2360f48a3")
+		(uuid "1c1707b7-4a5e-4bb5-beaf-a01c4f29e829")
 	)
 	(fp_line
 		(start 2.1 1.7)
@@ -115,66 +115,66 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "74ea8765-e543-42dc-ac20-ee601c3f9413")
+		(uuid "34435629-8892-4db2-9e1f-3f4d21134acc")
 	)
 	(pad "1" smd roundrect
 		(at -1.3 -0.975)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "eae43a4d-adc7-4135-a25f-476bcd9c7edb")
+		(uuid "d51712ac-fccf-41be-b060-180287c1c2d4")
 	)
 	(pad "2" smd roundrect
 		(at -1.3 -0.325)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "0aaea004-4054-40a5-8e64-e7bcb6b9f730")
+		(uuid "77883dae-3adc-4014-b8ed-2a5dafcaa11c")
 	)
 	(pad "3" smd roundrect
 		(at -1.3 0.325)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "02ce61a8-2e03-4dd8-8861-6e67a9247aa0")
+		(uuid "209eccbd-db49-4dc5-946a-d04a72a32e33")
 	)
 	(pad "4" smd roundrect
 		(at -1.3 0.975)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "e09b3bd0-a5fa-45f8-85af-430c85600258")
+		(uuid "7e08ac53-50c7-41dd-82d8-8802f2034294")
 	)
 	(pad "5" smd roundrect
 		(at 1.3 0.975)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "8b943cc4-d4e9-4a63-b754-8ffa250e932c")
+		(uuid "51cfbb39-aec7-456a-83cd-2a8b7e9266d0")
 	)
 	(pad "6" smd roundrect
 		(at 1.3 0.325)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "01077723-02c3-4a84-8738-b7372ef278e8")
+		(uuid "ccf5233f-5672-4d92-86be-0e05da877109")
 	)
 	(pad "7" smd roundrect
 		(at 1.3 -0.325)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "ddb522d3-0561-4545-9fbe-b58a077d1c89")
+		(uuid "d9c2e6eb-71a7-4478-91c4-1f28f72229b5")
 	)
 	(pad "8" smd roundrect
 		(at 1.3 -0.975)
-		(size 1.1 0.45)
+		(size 1.05 0.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "e06bc98e-01f7-4322-a149-3658ffc9a7da")
+		(uuid "0332b144-b9ee-41a8-8919-01fdc603eeb4")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/enzyme/kiCad-solids/SmallOutline/TSOT-23-8.step"
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/SmallOutline/SOT-23-THIN-8_DDF.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -185,7 +185,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/../enzyme/kiCad-solids/SmallOutline/TSOT-23-8.step"
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/SmallOutline/SOT-23-THIN-8_DDF.step"
 		(offset
 			(xyz 0 0 0)
 		)

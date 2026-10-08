@@ -596,7 +596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vds" "80V"
+		(property "VDS" "80V"
 			(at -2.54 3.81 0)
 			(effects
 				(font
@@ -604,7 +604,7 @@
 				)
 			)
 		)
-		(property "MFR.Part #" "BSC030N08NS5"
+		(property "MFR. Part #" "BSC030N08NS5"
 			(at 0 -20.32 0)
 			(effects
 				(font

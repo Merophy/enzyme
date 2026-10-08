@@ -240,7 +240,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "ADS1115IDGSR"
+		(property "MFR. Part #" "ADS1115IDGSR"
 			(at 0 -12.7 0)
 			(effects
 				(font
@@ -536,7 +536,7 @@
 				)
 			)
 		)
-		(property "MFR Part #" "AP2127K-ADJTRG1"
+		(property "MFR. Part #" "AP2127K-ADJTRG1"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -722,7 +722,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "AS5047P-ATSM"
+		(property "MFR. Part #" "AS5047P-ATSM"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -1180,7 +1180,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "DRV8301DCA"
+		(property "MFR. Part #" "DRV8301DCA"
 			(at 0 -96.52 0)
 			(effects
 				(font
@@ -2320,7 +2320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "DRV8870DDAR"
+		(property "MFR. Part #" "DRV8870DDAR"
 			(at 0 -24.13 0)
 			(effects
 				(font
@@ -2585,7 +2585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "FT232RL-REEL"
+		(property "MFR. Part #" "FT232RL-REEL"
 			(at 0 -40.64 0)
 			(effects
 				(font
@@ -3604,7 +3604,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "INA226AIDGSR"
+		(property "MFR. Part #" "INA226AIDGSR"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -3886,7 +3886,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "INA229AIDGSR"
+		(property "MFR. Part #" "INA229AIDGSR"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -4112,6 +4112,526 @@
 					(effects
 						(font
 							(size 0.9906 0.9906)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "INA241A1"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 2.54 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA241A1"
+			(at 2.54 5.08 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_SmallOutline:SOT-23-THIN-8_DDF"
+			(at 0 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina241a.pdf"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-5V to 110V, bidirectional, zero-drift current sense amplifier with enhanced PWM rejection, 10 V/V, 1.1MHz, SOT-23-THIN-8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Gain" "10V/V"
+			(at -6.35 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "INA241A1IDDFR"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C19712054"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current amplifier shunt bidirectional PWM user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*THIN*8*DDF*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "INA241A1_1_1"
+			(polyline
+				(pts
+					(xy 7.62 0) (xy -5.08 7.62) (xy -5.08 -7.62) (xy 7.62 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -7.62 2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 10.16 270)
+				(length 4.064)
+				(name "VS"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 -10.16 90)
+				(length 4.064)
+				(name "GND"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 -10.16 90)
+				(length 4.064)
+				(hide yes)
+				(name "GND"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 0 -10.16 90)
+				(length 5.588)
+				(name "REF2"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 2.54 -10.16 90)
+				(length 7.112)
+				(name "REF1"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "INA241A5"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 2.54 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA241A5"
+			(at 2.54 5.08 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_SmallOutline:SOT-23-THIN-8_DDF"
+			(at 0 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ina241a.pdf"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-5V to 110V, bidirectional, zero-drift current sense amplifier with enhanced PWM rejection, 200 V/V, 1.1MHz, SOT-23-THIN-8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Gain" "200V/V"
+			(at -6.35 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "INA241A5IDDFR"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7425524"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current amplifier shunt bidirectional PWM user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*THIN*8*DDF*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "INA241A5_1_1"
+			(polyline
+				(pts
+					(xy 7.62 0) (xy -5.08 7.62) (xy -5.08 -7.62) (xy 7.62 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -7.62 2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 10.16 270)
+				(length 4.064)
+				(name "VS"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 -10.16 90)
+				(length 4.064)
+				(name "GND"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 -10.16 90)
+				(length 4.064)
+				(hide yes)
+				(name "GND"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 0 -10.16 90)
+				(length 5.588)
+				(name "REF2"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 2.54 -10.16 90)
+				(length 7.112)
+				(name "REF1"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
 						)
 					)
 				)
@@ -4365,7 +4885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "IS31FL3731-QFLS2-TR"
+		(property "MFR. Part #" "IS31FL3731-QFLS2-TR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5811,7 +6331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "LM1117MPX-3.3/NOPB"
+		(property "MFR. Part #" "LM1117MPX-3.3/NOPB"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -5988,7 +6508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "LM1117MP-5.0/NOPB"
+		(property "MFR. Part #" "LM1117MP-5.0/NOPB"
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -7518,7 +8038,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part #" "LP5907MFX-3.3/NOPB"
+		(property "MFR. Part #" "LP5907MFX-3.3/NOPB"
 			(at 0 -20.32 0)
 			(effects
 				(font
@@ -7704,7 +8224,7 @@
 				(justify right)
 			)
 		)
-		(property "MFR.Part #" "LR8N8-G"
+		(property "MFR. Part #" "LR8N8-G"
 			(at 0 -21.844 0)
 			(effects
 				(font
@@ -8576,7 +9096,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "LTC4367CDD#TRPBF"
+		(property "MFR. Part #" "LTC4367CDD#TRPBF"
 			(at 0 -35.56 0)
 			(effects
 				(font
@@ -9944,7 +10464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "RP2040"
+		(property "MFR. Part #" "RP2040"
 			(at 0 -41.91 0)
 			(effects
 				(font
@@ -11078,7 +11598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "SN74LVC3G07DCUR"
+		(property "MFR. Part #" "SN74LVC3G07DCUR"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -11345,7 +11865,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "SN74LVC8T245RHLR"
+		(property "MFR. Part #" "SN74LVC8T245RHLR"
 			(at 0 -30.48 0)
 			(effects
 				(font
@@ -15877,7 +16397,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "STM32H750VBT6"
+		(property "MFR. Part #" "STM32H750VBT6"
 			(at 0 -87.63 0)
 			(effects
 				(font
@@ -18594,7 +19114,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "STM32H750XBH6"
+		(property "MFR. Part #" "STM32H750XBH6"
 			(at 0 -121.92 0)
 			(effects
 				(font
@@ -26250,7 +26770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "TJA1042T/3/1J"
+		(property "MFR. Part #" "TJA1042T/3/1J"
 			(at 0 -24.13 0)
 			(effects
 				(font
@@ -26497,7 +27017,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part #" "TLD60982ESXUMA2"
+		(property "MFR. Part #" "TLD60982ESXUMA2"
 			(at 0 -71.12 0)
 			(effects
 				(font
@@ -27049,7 +27569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "TLV1117LV33DCYR "
+		(property "MFR. Part #" "TLV1117LV33DCYR "
 			(at 0 -19.05 0)
 			(effects
 				(font
@@ -27205,7 +27725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "TLV62130RGTR"
+		(property "MFR. Part #" "TLV62130RGTR"
 			(at 0 -29.21 0)
 			(effects
 				(font
@@ -28329,7 +28849,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "TPS7A4700RGWR"
+		(property "MFR. Part #" "TPS7A4700RGWR"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -29023,7 +29543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "USB2514B-AEZC-TR"
+		(property "MFR. Part #" "USB2514B-AEZC-TR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29792,7 +30312,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part #" "C7519"
+		(property "JLCPCB Part #" "C7519"
 			(at 0 -11.43 0)
 			(effects
 				(font
@@ -30314,7 +30834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1809140423_Winbond-Elec-W25Q128JVPIQ_C190862.pdf"
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf"
 			(at 0 -21.59 0)
 			(effects
 				(font
@@ -30332,7 +30852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "W25Q128JVPIQ"
+		(property "MFR. Part #" "W25Q128JVPIQ"
 			(at 0 -24.13 0)
 			(effects
 				(font
@@ -30359,7 +30879,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "SOIC*5.23x5.23mm*P1.27mm*"
+		(property "ki_fp_filters" "WSON*6x5mm*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -30512,6 +31032,268 @@
 				(at 12.7 -3.81 180)
 				(length 2.54)
 				(name "IO3"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 12.7 -6.35 180)
+				(length 2.54)
+				(name "~{CS}"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "W25Q128JVE"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -8.89 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "W25Q128JVE"
+			(at 6.35 -11.43 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+			)
+		)
+		(property "Footprint" "CoF_SmallOutline:WSON-8-EP_8x6mm"
+			(at 0 12.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf"
+			(at 0 -21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "128Mbit SPI/Dual/Quad NOR flash, 133MHz, 2.7V~3.6V, QE=1 fixed (IO2/IO3 always quad), -40~+85C, WSON-8-EP(8x6)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "W25Q128JVEIQ"
+			(at 0 -24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2456297"
+			(at 0 -26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "flash memory SPI QSPI NOR boot user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "WSON*8x6mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "W25Q128JVE_0_1"
+			(rectangle
+				(start -10.16 10.16)
+				(end 10.16 -10.16)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "W25Q128JVE_1_1"
+			(pin power_in line
+				(at -12.7 6.35 0)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -12.7 -6.35 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -12.7 90)
+				(length 2.54)
+				(name "EP"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 12.7 6.35 180)
+				(length 2.54)
+				(name "CLK"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 12.7 3.81 180)
+				(length 2.54)
+				(name "DI(IO0)"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 12.7 1.27 180)
+				(length 2.54)
+				(name "DO(IO1)"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 12.7 -1.27 180)
+				(length 2.54)
+				(name "IO2/~{WP}"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 12.7 -3.81 180)
+				(length 2.54)
+				(name "IO3/~{HOLD}"
 					(effects
 						(font
 							(size 0.9906 0.9906)
@@ -39712,7 +40494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "672-ZED-F9R-01BTR-ND"
+		(property "Digikey Part #" "672-ZED-F9R-01BTR-ND"
 			(at 0 -68.58 0)
 			(effects
 				(font
@@ -39730,7 +40512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "ZED-F9R-01B"
+		(property "MFR. Part #" "ZED-F9R-01B"
 			(at 0 -76.2 0)
 			(effects
 				(font

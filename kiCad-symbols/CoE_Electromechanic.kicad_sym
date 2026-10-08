@@ -53,7 +53,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "TC33X-2-104E"
+		(property "MFR. Part #" "TC33X-2-104E"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -284,7 +284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "RS08U111Z001"
+		(property "MFR. Part #" "RS08U111Z001"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -529,7 +529,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C20606802"
+		(property "JLCPCB Part #" "C20606802"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -1500,7 +1500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "TS-1187A-B-A-B"
+		(property "MFR. Part #" "TS-1187A-B-A-B"
 			(at 0 -6.35 0)
 			(effects
 				(font

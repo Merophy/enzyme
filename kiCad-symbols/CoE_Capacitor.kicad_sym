@@ -2715,7 +2715,7 @@
 				(hide yes)
 			)
 		)
-		(property "JCSC Part #" "C443080"
+		(property "JLCPCB Part #" "C443080"
 			(at 0 -13.335 0)
 			(effects
 				(font
@@ -3270,7 +3270,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigikeyPart #" "490-11395-2-ND"
+		(property "Digikey Part #" "490-11395-2-ND"
 			(at 0 -13.335 0)
 			(effects
 				(font
@@ -4658,7 +4658,7 @@
 				(hide yes)
 			)
 		)
-		(property "JCSC Part #" "C5632139"
+		(property "JLCPCB Part #" "C5632139"
 			(at 0 -13.335 0)
 			(effects
 				(font

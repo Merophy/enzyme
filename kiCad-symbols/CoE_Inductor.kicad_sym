@@ -446,7 +446,7 @@
 				)
 			)
 		)
-		(property "MFR.Part #" "BLM18PG121SN1D"
+		(property "MFR. Part #" "BLM18PG121SN1D"
 			(at 0 -10.795 0)
 			(effects
 				(font
@@ -1421,7 +1421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "MLG1005S7N5JT000"
+		(property "MFR. Part #" "MLG1005S7N5JT000"
 			(at 0 -10.795 0)
 			(effects
 				(font

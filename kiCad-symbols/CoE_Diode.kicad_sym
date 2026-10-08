@@ -3813,7 +3813,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "XL-1615RGBC-WS2812B-S"
+		(property "MFR. Part #" "XL-1615RGBC-WS2812B-S"
 			(at 0 -22.86 0)
 			(effects
 				(font
