@@ -2,13 +2,137 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
+	(symbol "Bar_17x3x2.8mm"
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "B"
+			(at 13.208 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Bar_17x3x2.8mm"
+			(at 0 -1.778 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Bar:Copper_17x3x2.8mm"
+			(at -0.254 4.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8783740043725303808"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMT copper bar 17x3x2.8mm, red copper, bright tin plated, 0.3mm pad margin on every side"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "STHW4-DU-TS1702X830"
+			(at 0 -4.826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C18548297"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "copper bar busbar SMT 17x3x2.8mm user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Copper_17x3x2.8mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Bar_17x3x2.8mm_1_1"
+			(rectangle
+				(start 0.254 0.635)
+				(end 12.7 -0.635)
+				(stroke
+					(width 0.635)
+					(type solid)
+					(color 132 132 132 1)
+				)
+				(fill
+					(type color)
+					(color 132 132 132 1)
+				)
+			)
+			(pin passive line
+				(at -2.54 0 0)
+				(length 2.54)
+				(name "Pin_1"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 0.7112 0.7112)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "Bar_20x2.5x0.8mm"
 		(pin_names
 			(offset 1.016)
 			(hide yes)
 		)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "B"
 			(at 13.208 0 0)
@@ -37,7 +161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2001091836_XFCN-TS30000_C481440.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8758046611651993600"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -46,7 +170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "H62 Brass 20*2.5*0.8mm Surface Mount,20x2.5x0.8mm Metal Products * SMT Copper Sheet"
+		(property "Description" "SMT copper sheet 20x2.5x0.8mm, H62 brass, tin plated"
 			(at 0 -7.62 0)
 			(effects
 				(font
@@ -73,7 +197,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "Surface Mount,20x2.5x0.8mm"
+		(property "ki_keywords" "copper bar busbar SMT 20x2.5x0.8mm user"
 			(at 0 0 0)
 			(effects
 				(font
@@ -82,7 +206,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Copper_20x2.5x0.8mm*"
 			(at 0 0 0)
 			(effects
 				(font
