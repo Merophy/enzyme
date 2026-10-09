@@ -2884,7 +2884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1W 1mΩ Alloy Resistor SMD ±1% ±70ppm/℃ 0612 Current Sense Resistors / Shunt Resistors ROHS"
+		(property "Description" "1W 1mΩ Alloy Resistor SMD ±1% ±70ppm/℃ 0612 Current Sense Resistors / Shunt Resistors ROHS; 4-terminal: pins 3/4 are Kelvin sense vias at pads 1/2"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2919,7 +2919,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "resistor res user shunt "
+		(property "ki_keywords" "resistor res user shunt kelvin 4-wire sense"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2928,7 +2928,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-0612*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2986,6 +2986,52 @@
 					(type outline)
 				)
 			)
+			(polyline
+				(pts
+					(xy -1.27 2.54) (xy 0 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 2.54)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -2.54) (xy 0 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 -2.54)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
 			(pin passive line
 				(at 0 3.81 270)
 				(length 1.6002)
@@ -3015,6 +3061,42 @@
 					)
 				)
 				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 -2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
