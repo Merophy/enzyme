@@ -1,0 +1,220 @@
+(footprint "VSON-8-EP_3x3mm_DRB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "VSON-8 3x3mm, 0.65mm pitch, 1.65x2.4mm thermal pad (TI DRB0008J example board layout, TCAN1044AV-Q1)")
+	(tags "VSON SON DFN 8 3x3 DRB exposed pad TCAN1044")
+	(property "Reference" "REF**"
+		(at 0 -2.3 0)
+		(layer "F.SilkS")
+		(uuid "24e13eb7-f700-416e-8a4c-4abec215773d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VSON-8-EP_3x3mm_DRB"
+		(at 0 2.3 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "578a802a-bb9a-4581-ba1e-0c44534fb18c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33ff4585-9656-42db-afa9-83f0364b40e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5cefb851-bd6f-4ed5-8969-8456d01d2508")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -1.9 -0.975) (xy -2.23 -1.215) (xy -2.23 -0.735) (xy -1.9 -0.975)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "a8a904f0-f42d-4375-a8b2-af66a3398cd4")
+	)
+	(fp_poly
+		(pts
+			(xy -1 -1.5) (xy 1.5 -1.5) (xy 1.5 1.5) (xy -1.5 1.5) (xy -1.5 -1) (xy -1 -1.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8331dca6-df53-4e47-87f7-44879b654064")
+	)
+	(fp_line
+		(start -1.95 -1.75)
+		(end 1.95 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "20602d02-d7e4-4efc-be0b-10ce03542c1f")
+	)
+	(fp_line
+		(start -1.95 1.75)
+		(end -1.95 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f386bac3-e370-40a4-9ede-b106a9139eeb")
+	)
+	(fp_line
+		(start 1.95 -1.75)
+		(end 1.95 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "40ea3577-e8ea-4e6f-a1ab-55fb6eabd6f9")
+	)
+	(fp_line
+		(start 1.95 1.75)
+		(end -1.95 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1a3b66fe-6f25-478e-9d3a-f6a2b80f011b")
+	)
+	(pad "1" smd roundrect
+		(at -1.4 -0.975)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "55af77cf-7ca2-4eeb-b455-fe18411955c2")
+	)
+	(pad "2" smd roundrect
+		(at -1.4 -0.325)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "f4f6780d-f05b-445c-8dfe-8e6046590d9e")
+	)
+	(pad "3" smd roundrect
+		(at -1.4 0.325)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "9cfa554a-8482-4c0f-b2d6-f5eb1cd00b5d")
+	)
+	(pad "4" smd roundrect
+		(at -1.4 0.975)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "0fd379c8-4561-40d0-ab65-c487736d4918")
+	)
+	(pad "5" smd roundrect
+		(at 1.4 0.975)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "ad7062be-e3f1-4123-8002-7ee995294776")
+	)
+	(pad "6" smd roundrect
+		(at 1.4 0.325)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "9c2aa274-39cf-4b0c-a636-28cda7bc8bf4")
+	)
+	(pad "7" smd roundrect
+		(at 1.4 -0.325)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "bf191bf2-13b1-4a52-8506-4f3fdb701c91")
+	)
+	(pad "8" smd roundrect
+		(at 1.4 -0.975)
+		(size 0.6 0.31)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "2b25dc56-f4c8-4084-bed3-a34a7e9f9c26")
+	)
+	(pad "9" smd roundrect
+		(at 0 0)
+		(size 1.65 2.4)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.05)
+		(uuid "a52bba5a-d759-49a5-a17b-27cb211b3d13")
+	)
+	(pad "" smd roundrect
+		(at 0 -0.63)
+		(size 1.51 1.06)
+		(layers "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "275efff4-4f1a-406f-9ff1-27a562d8fb07")
+	)
+	(pad "" smd roundrect
+		(at 0 0.63)
+		(size 1.51 1.06)
+		(layers "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "67c3664f-de60-4d33-b492-35743d4127c2")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/DualFlat/VSON-8-EP_3x3mm_DRB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/DualFlat/VSON-8-EP_3x3mm_DRB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
