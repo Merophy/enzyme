@@ -1,0 +1,213 @@
+(footprint "WSON-6-2EP_2x2mm_DQK"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TI DQK WSON-6 2x2mm, 0.65mm pitch, drain pad 1.0x0.95mm and source pad 0.75x0.3mm (CSD19538Q2); terminal pads 0.55x0.3mm, thermal pads 1:1 with the package")
+	(tags "WSON SON 6 2x2 DQK NexFET MOSFET CSD19538Q2")
+	(property "Reference" "REF**"
+		(at 0 -1.7 0)
+		(layer "F.SilkS")
+		(uuid "ac37a4a5-23a4-4622-a349-aaffcbeed544")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "WSON-6-2EP_2x2mm_DQK"
+		(at 0 1.7 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d7c8de0-c253-4ecf-adb7-5bc6ddffe741")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e20eedb-5b34-4723-ae1f-69f008bf962d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41bedfcc-9a56-4c5c-8da2-0ba2cbcb5904")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -1.45 -0.65) (xy -1.78 -0.89) (xy -1.78 -0.41) (xy -1.45 -0.65)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "ab23ee91-0342-4cec-8d52-7c5eca8da44c")
+	)
+	(fp_poly
+		(pts
+			(xy -0.6 -1) (xy 1 -1) (xy 1 1) (xy -1 1) (xy -1 -0.6) (xy -0.6 -1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9cd121a4-8a25-47ba-b243-119753c172f6")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "affcebf1-a9ef-4efb-a160-8ef1bc2354b5")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end -1.5 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8d1e73a-1240-4076-8d51-41cc8ab5aecd")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ee6060ba-1e3b-40d4-bcbf-fda69ff98a29")
+	)
+	(fp_line
+		(start 1.5 1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a28de271-f645-4442-8299-77515f474628")
+	)
+	(pad "1" smd roundrect
+		(at -0.975 -0.65)
+		(size 0.55 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "609db9df-77b2-47ee-836d-fbfef5d51f5b")
+	)
+	(pad "2" smd roundrect
+		(at -0.975 0)
+		(size 0.55 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "584032a3-9ff7-48a9-8b58-530346bddecd")
+	)
+	(pad "3" smd roundrect
+		(at -0.975 0.65)
+		(size 0.55 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "99610b7e-d4e3-41d4-b258-a5cffe22e82a")
+	)
+	(pad "4" smd roundrect
+		(at 0.975 0.65)
+		(size 0.55 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "3c99e735-ddeb-4ade-88b7-8116a546dba2")
+	)
+	(pad "5" smd roundrect
+		(at 0.975 0)
+		(size 0.55 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "0511d679-2ddd-4eb4-8b57-79b221f92c9c")
+	)
+	(pad "6" smd roundrect
+		(at 0.975 -0.65)
+		(size 0.55 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "bafc5e29-bef2-480b-9a81-5553ba1b5655")
+	)
+	(pad "1" smd roundrect
+		(at 0 -0.325)
+		(size 1 0.95)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.05)
+		(uuid "f076891d-9a37-45e8-8583-3dd49bec6ef7")
+	)
+	(pad "4" smd roundrect
+		(at 0.095 0.65)
+		(size 0.75 0.3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "fbbf3aa0-3616-492b-84bb-582aec85231b")
+	)
+	(pad "" smd roundrect
+		(at 0 -0.325)
+		(size 0.85 0.8)
+		(layers "F.Paste")
+		(roundrect_rratio 0.08)
+		(uuid "af13dea2-955c-4a55-809f-0bc11b0500e9")
+	)
+	(pad "" smd roundrect
+		(at 0.095 0.65)
+		(size 0.65 0.24)
+		(layers "F.Paste")
+		(roundrect_rratio 0.1)
+		(uuid "9d2cf3c5-23fd-4c46-a0d8-0cb46b41d841")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/DualFlat/WSON-6-2EP_2x2mm_DQK.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/DualFlat/WSON-6-2EP_2x2mm_DQK.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
