@@ -1,0 +1,172 @@
+(footprint "L-3.2-2.5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Molded power inductor 3.2 x 2.5 x 1.0 mm (1210, cjiang FTC322510S); pads per cjiang recommended land pattern 1.1 x 2.5 mm, gap 1.0 mm")
+	(tags "inductor molded 1210 3225 FTC322510S")
+	(property "Reference" "REF**"
+		(at 0 -1.95 0)
+		(layer "F.SilkS")
+		(uuid "7c1d4c4e-aa05-4b4d-91a0-e4443d4b5525")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "L-3.2-2.5"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e40f79b-7368-4144-ad9d-7313b0ba65da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6dc1b6fd-5f5f-4091-ac95-26bf97764edd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b5e3284-27d8-4d61-9212-d8adb8e2d295")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 -1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b46ff94b-324f-485a-9e84-2a98fd098a15")
+	)
+	(fp_line
+		(start 1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ebc16571-0070-426b-9898-fab1bd424929")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "5d9d1c64-9ee1-456d-963c-e805d7ac4f38")
+	)
+	(fp_line
+		(start -1.6 1.25)
+		(end -1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "fbe4aaf8-d4e0-4a3a-954e-a97c21dfa34c")
+	)
+	(fp_line
+		(start -1.85 -1.5)
+		(end 1.85 -1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "ff902953-9998-4f72-98d2-7883e0e0ca30")
+	)
+	(fp_line
+		(start 1.85 -1.5)
+		(end 1.85 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "084b7cec-0821-42b1-8869-36ef560fce73")
+	)
+	(fp_line
+		(start 1.85 1.5)
+		(end -1.85 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "0453f2b9-d77d-4731-93ac-69dc598ae991")
+	)
+	(fp_line
+		(start -1.85 1.5)
+		(end -1.85 -1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "eb6cfb65-bae1-45f3-9522-fb4a5a4b7d33")
+	)
+	(pad "1" smd roundrect
+		(at -1.05 0)
+		(size 1.1 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "fbd0a0d2-014f-4c74-b416-39d723929cbf")
+	)
+	(pad "2" smd roundrect
+		(at 1.05 0)
+		(size 1.1 2.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "05cb8fef-7913-4074-b3e0-d9f026bd1bce")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Inductors/L-3.2x2.5x1.0mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Inductors/L-3.2x2.5x1.0mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
