@@ -2558,7 +2558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CoF_Diode:SOD-128"
 			(at 0 10.16 0)
 			(effects
 				(font
@@ -2568,7 +2568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2004031108_Nexperia-PMEG10030ELP_C503376.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PMEG10030ELP.pdf"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2577,7 +2577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100V 770mV@3A 3A SOD-128  Schottky Barrier Diodes (SBD) ROHS"
+		(property "Description" "100V 3A Schottky barrier rectifier, VF 710mV@3A (575mV@125°C), IR 110nA@100V, Rth(j-sp) 12K/W, SOD-128 (CFP5)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2604,7 +2604,7 @@
 				(justify left)
 			)
 		)
-		(property "MFR. Part #" "PMEG10030ELP"
+		(property "MFR. Part #" "PMEG10030ELPX"
 			(at 0 -10.795 0)
 			(effects
 				(font
@@ -2613,7 +2613,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C503376"
+		(property "JLCPCB Part #" "C5260346"
 			(at 0 -13.335 0)
 			(effects
 				(font
