@@ -1,0 +1,286 @@
+(footprint "HX5008NL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Pulse HX5008NL gigabit Ethernet magnetics, SMD-24 gull wing, body 13.16x15.11x6.12mm, 0.99mm pitch; land pattern per the Pulse suggested land pattern (24x 0.64x1.905, 15.75mm between the pad rows, 19.56mm overall)")
+	(tags "ethernet magnetics transformer LAN Pulse HX5008NL")
+	(property "Reference" "REF**"
+		(at 0 -10.9 0)
+		(layer "F.SilkS")
+		(uuid "e8c5098a-a40d-40d1-ae6d-d5875e2fe78b")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "HX5008NL"
+		(at 0 10.9 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c6a0bfd-7584-4c3c-979c-7664d1bdbfe5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "adccf6f4-5445-484f-8cf6-be2d0477b293")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c4d72650-8aa2-45e9-b43d-50a9d4e298b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -6.58 -7.555) (xy 6.58 -7.555) (xy 6.58 7.555) (xy -5.58 7.555) (xy -6.58 6.555) (xy -6.58 -7.555)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "570f9584-b248-48ca-8dcc-631621e39520")
+	)
+	(fp_line
+		(start -6.83 -10.03)
+		(end 6.83 -10.03)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "129748e0-7fa1-458e-91a7-6385274f8d9f")
+	)
+	(fp_line
+		(start 6.83 -10.03)
+		(end 6.83 10.03)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "b0889547-f481-4ba7-af95-cb466389c738")
+	)
+	(fp_line
+		(start 6.83 10.03)
+		(end -6.83 10.03)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5c161b61-7f80-4b46-88c8-7c4812017abb")
+	)
+	(fp_line
+		(start -6.83 10.03)
+		(end -6.83 -10.03)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "51db86d5-b3bf-4d6c-bfda-36cb4a1d2635")
+	)
+	(fp_poly
+		(pts
+			(xy -6.15 8.8275) (xy -6.6 8.5275) (xy -6.6 9.1275) (xy -6.15 8.8275)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "9b65b89e-b96b-4549-bc4b-a30ccbd7861a")
+	)
+	(pad "1" smd rect
+		(at -5.445 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2717efdc-fbf1-42f2-b533-0c3145f87c44")
+	)
+	(pad "13" smd rect
+		(at 5.445 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8bd68e13-ae96-4e09-b16c-e079aebb30c6")
+	)
+	(pad "2" smd rect
+		(at -4.455 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a70ab9ff-16c7-4ef4-aba7-6e59d4f9ddb2")
+	)
+	(pad "14" smd rect
+		(at 4.455 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0e319c1b-cf8f-4a16-b8a9-c44a57cb5c30")
+	)
+	(pad "3" smd rect
+		(at -3.465 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f3cc32f2-2881-4995-aa5f-23394075adab")
+	)
+	(pad "15" smd rect
+		(at 3.465 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1883c74f-2016-4cce-91b9-534613b0a56c")
+	)
+	(pad "4" smd rect
+		(at -2.475 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "19ea3179-44cc-45b2-a8f7-ea78d7442ec9")
+	)
+	(pad "16" smd rect
+		(at 2.475 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3eac8e4a-8cb7-4510-8b03-4224da0ba6f5")
+	)
+	(pad "5" smd rect
+		(at -1.485 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a0795905-c8e7-41cf-a849-444f58c568b3")
+	)
+	(pad "17" smd rect
+		(at 1.485 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "04c2f6ea-239d-42cb-9ba5-9fb47c8c6405")
+	)
+	(pad "6" smd rect
+		(at -0.495 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ca71b042-f730-4043-babc-0f432d38c1e1")
+	)
+	(pad "18" smd rect
+		(at 0.495 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "920d5aec-dc0a-4031-8dd7-836965a67d2c")
+	)
+	(pad "7" smd rect
+		(at 0.495 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2b58a996-ab00-461e-9a50-eeeceee135dc")
+	)
+	(pad "19" smd rect
+		(at -0.495 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4b68c9ac-fec0-43ed-8901-44cc1ee9fa35")
+	)
+	(pad "8" smd rect
+		(at 1.485 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "83963b2c-d896-4f41-8f3d-a9e4081f9ffd")
+	)
+	(pad "20" smd rect
+		(at -1.485 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e8741828-f8e7-4f42-b333-baa725175427")
+	)
+	(pad "9" smd rect
+		(at 2.475 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0f857d6f-acd8-4863-a642-798b03efbb40")
+	)
+	(pad "21" smd rect
+		(at -2.475 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "99063536-0766-4dd2-bf41-15a5b001cb57")
+	)
+	(pad "10" smd rect
+		(at 3.465 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f280ca97-b6c2-4f1c-9fde-b35e1e731dfa")
+	)
+	(pad "22" smd rect
+		(at -3.465 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c725930c-13a8-4e35-81c3-6b3cd5090e1b")
+	)
+	(pad "11" smd rect
+		(at 4.455 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "58c7c858-bb07-4b9d-96d6-c09c4b388a3b")
+	)
+	(pad "23" smd rect
+		(at -4.455 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9dfff58c-7dd5-40fd-a822-df61a517be9f")
+	)
+	(pad "12" smd rect
+		(at 5.445 8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "495090d3-6982-47ef-8974-856f135be465")
+	)
+	(pad "24" smd rect
+		(at -5.445 -8.8275)
+		(size 0.64 1.905)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0f453394-d363-482e-9245-190dc66eb027")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Inductors/HX5008NL.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Inductors/HX5008NL.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
