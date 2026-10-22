@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -3.5 0)
 		(layer "F.SilkS")
-		(uuid "e2bb0123-3be0-4d32-a763-a41be9827bee")
+		(uuid "38d9d9c9-a033-4dcc-95e2-4368c13fbe64")
 		(effects
 			(font
 				(size 0.6 0.6)
@@ -20,7 +20,7 @@
 		(at 0 3.6 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0738651d-974f-4849-ba74-3045302f4fc9")
+		(uuid "eeb2641d-7541-4b7b-8626-e6fc6ff02a74")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a262cc6f-9078-486c-bbf2-6f2468c69930")
+		(uuid "1a6f3e64-374b-490c-8b89-6e6fb1314ae1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b9b05d1c-24bd-44c4-a5c8-cdb17a46d72a")
+		(uuid "3c150432-2658-4051-af1f-d12541aaba6c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +61,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "f4bf4a80-98b6-45fe-b877-ff82e342f5ba")
+		(uuid "e649bdba-7f02-4646-9302-159a11c76147")
 	)
 	(fp_line
 		(start 2.7 -2.6)
@@ -71,7 +71,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "d651d68d-9a75-46fd-b8b9-f657d400d884")
+		(uuid "fb785ff0-85b5-4812-aba7-9a95f3788371")
 	)
 	(fp_line
 		(start 2.7 2.6)
@@ -81,7 +81,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "90910e39-6a1b-485f-8a50-938d89a1b6f1")
+		(uuid "3e3c24c7-bc03-4d08-a3a4-f73bdfc481f6")
 	)
 	(fp_line
 		(start -2.7 2.6)
@@ -91,7 +91,7 @@
 			(type default)
 		)
 		(layer "F.Fab")
-		(uuid "69522841-969f-454d-bb94-958019dc117d")
+		(uuid "4bae0608-8707-4c3d-8f6b-7dd526893452")
 	)
 	(fp_line
 		(start -3.25 -2.85)
@@ -101,7 +101,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "c1e1ac74-837f-4010-9ad5-e5b5078b1005")
+		(uuid "d8b6dd65-b24a-48dc-9c9c-705639eb7c86")
 	)
 	(fp_line
 		(start 3.25 -2.85)
@@ -111,7 +111,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "c03dd6a8-0fc7-44d8-8fba-6c783a321e58")
+		(uuid "456c2f02-daeb-403e-8409-b0aa5513c3bd")
 	)
 	(fp_line
 		(start 3.25 2.85)
@@ -121,7 +121,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "57e859ba-3dae-4b4a-936c-43a491c5c0fe")
+		(uuid "0834a488-d01f-4bb3-80cb-fccf90ea8b6c")
 	)
 	(fp_line
 		(start -3.25 2.85)
@@ -131,21 +131,21 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "5df6be37-0114-4270-875c-23237cc65145")
+		(uuid "4de6e192-d4d6-4bc0-82e2-87d1a02c6a48")
 	)
 	(pad "1" smd roundrect
 		(at -2.05 0)
 		(size 1.9 2.5)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.15)
-		(uuid "0923a8c6-1358-4b5b-ac55-24b752d8caad")
+		(uuid "e35843e3-660f-4596-a9c0-43967169610a")
 	)
 	(pad "2" smd roundrect
 		(at 2.05 0)
 		(size 1.9 2.5)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.15)
-		(uuid "2913d513-cf40-4938-8c88-3029457acfc9")
+		(uuid "af33e743-0bc9-4c9d-bcde-78c291e9f117")
 	)
 	(model "${KIPRJMOD}/enzyme/kiCad-solids/Inductors/L-5.4x5.2x2.8mm.step"
 		(offset

@@ -1,0 +1,212 @@
+(footprint "FL-3.2-1.6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Murata NFE31P 3-terminal chip EMI filter 3.2 x 1.6 x 1.6 mm; Murata standard reflow land: end pads 1.0 x 1.0 at +/-1.6, GND band 1.2 x 3.0 copper with a solder-mask-defined 0.6 x 2.6 opening, 0.6 x 1.0 paste windows at the band ends, two tented 0.3/0.6 ground vias at the band ends")
+	(tags "EMI filter EMIFIL NFE31 3-terminal feedthrough")
+	(property "Reference" "REF**"
+		(at 0 -2.1 0)
+		(layer "F.SilkS")
+		(uuid "8391b7e1-1ce9-47bf-a570-2fd40c7ab80a")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "FL-3.2-1.6"
+		(at 0 2.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "149b9f35-7b3c-46f8-9c43-da3b2f090163")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2cb235d8-e86d-4ca1-aa49-322a16b3b496")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5399b84e-5bbf-4ca9-b5e1-aaba4541f54f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "4bbef743-24e4-489f-b926-461ef21596d6")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9140b576-1c5b-46e8-b856-b6abde8d2582")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a484f1cd-d6b0-4653-9340-87faf994fdf2")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9ea61cfd-a296-4e69-99a4-9374f52cb641")
+	)
+	(fp_line
+		(start -2.35 -1.75)
+		(end 2.35 -1.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "2cdacca7-adcf-4728-b6ae-22f3e0dc76aa")
+	)
+	(fp_line
+		(start 2.35 -1.75)
+		(end 2.35 1.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a8e8f4db-bdcd-4526-88eb-ddc62b471f5d")
+	)
+	(fp_line
+		(start 2.35 1.75)
+		(end -2.35 1.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "484bccde-f3e6-48ca-b59e-759f8d683016")
+	)
+	(fp_line
+		(start -2.35 1.75)
+		(end -2.35 -1.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "f03b507e-ab23-4232-91dc-5d318f60d3b2")
+	)
+	(pad "1" smd roundrect
+		(at -1.6 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "f44b0910-391a-4080-a22f-e62f1a0147b3")
+	)
+	(pad "3" smd roundrect
+		(at 1.6 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "268f8427-b7a5-4109-bd73-34893ea7f4ae")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 1.2 3)
+		(layers "F.Cu")
+		(uuid "fed9d60e-155b-4955-ac21-46ec901ff5f7")
+	)
+	(pad "" smd rect
+		(at 0 0)
+		(size 0.6 2.6)
+		(layers "F.Mask")
+		(uuid "071d3839-fc60-477d-b4dc-768b5bef96e4")
+	)
+	(pad "" smd rect
+		(at 0 -0.8)
+		(size 0.6 1)
+		(layers "F.Paste")
+		(uuid "03c33c38-3048-421a-bd69-68eaf94ec283")
+	)
+	(pad "" smd rect
+		(at 0 0.8)
+		(size 0.6 1)
+		(layers "F.Paste")
+		(uuid "0c9d50fd-aa11-42bb-a22d-11f205019f59")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -1.2)
+		(size 0.6 0.6)
+		(drill 0.3)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "cbaa691b-d5cf-44ab-bfcb-4eb042672838")
+	)
+	(pad "2" thru_hole circle
+		(at 0 1.2)
+		(size 0.6 0.6)
+		(drill 0.3)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "18bdd46b-a517-4f5d-91f8-c75ba560dbd2")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Filters/FL-3.2x1.6x1.6mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Filters/FL-3.2x1.6x1.6mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

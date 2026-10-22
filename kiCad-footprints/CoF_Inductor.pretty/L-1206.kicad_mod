@@ -1,0 +1,172 @@
+(footprint "L-1206"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Chip ferrite bead 3.2 x 1.6 x 1.1 mm (1206, Murata BLM31SN power line); reflow land per Murata: span 4.3, gap 2.0, pad width 1.8 mm. For 10-12 A Murata asks for 9.8 mm (35 um) / 4.9 mm (70 um) wide copper at the pads")
+	(tags "ferrite bead 1206 3216 BLM31SN BLM31PG")
+	(property "Reference" "REF**"
+		(at 0 -1.45 0)
+		(layer "F.SilkS")
+		(uuid "cc6eca49-b2f6-4033-bef6-3e332acd6707")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "L-1206"
+		(at 0 1.45 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6c00416-cf9c-4fab-b655-21896fa6555a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34ffc432-0ad1-4b94-8ee9-a4712f87cf96")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0248199-cd8a-4a05-a4ab-493c489e0a25")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "351f3428-dc84-4e22-9f49-34ac91fe99dd")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "8f1ab0ba-1daf-48c6-a2ec-160615f4551d")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "92c839d2-4eb9-4b01-8c4e-8c182b15f74e")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0216b17a-4c23-44f0-b6c8-4794afa6ebe0")
+	)
+	(fp_line
+		(start -2.4 -1.15)
+		(end 2.4 -1.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "16dd57f8-89cc-4777-94f4-66eb286c95bf")
+	)
+	(fp_line
+		(start 2.4 -1.15)
+		(end 2.4 1.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "535b39cb-9cee-405f-89c9-a47f20d965ea")
+	)
+	(fp_line
+		(start 2.4 1.15)
+		(end -2.4 1.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "84467129-28c9-4604-970e-38aa1fa9c5fb")
+	)
+	(fp_line
+		(start -2.4 1.15)
+		(end -2.4 -1.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "5861d3f5-af6d-4d76-90d4-90292ac8b756")
+	)
+	(pad "1" smd roundrect
+		(at -1.575 0)
+		(size 1.15 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "37339ee4-237f-48ab-8939-454626f17a01")
+	)
+	(pad "2" smd roundrect
+		(at 1.575 0)
+		(size 1.15 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "8c12d1b8-35e7-4084-8aec-0c2f044d6e6f")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Inductors/L-1206.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Inductors/L-1206.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

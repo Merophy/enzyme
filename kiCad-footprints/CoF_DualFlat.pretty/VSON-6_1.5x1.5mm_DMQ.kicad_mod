@@ -1,0 +1,184 @@
+(footprint "VSON-6_1.5x1.5mm_DMQ"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TI DMQ0006A VSON-HR-6 1.5x1.5x1.0mm max, 0.5mm pitch; land pattern per TI example board layout: pins 1-3 0.6x0.25mm at x -0.65, pins 4-6 1.0x0.2mm at x +0.45, R0.05, stencil 1:1 (TPS6282x)")
+	(tags "VSON SON DFN DMQ 1.5x1.5 TPS62826 TPS6282x")
+	(property "Reference" "REF**"
+		(at 0 -1.35 0)
+		(layer "F.SilkS")
+		(uuid "58310a7d-a212-4583-b9ff-39b873600874")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "VSON-6_1.5x1.5mm_DMQ"
+		(at 0 1.35 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7a34c53-9e80-4638-bdbc-9aa3bff4d540")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d45dbe15-9bf3-4457-a74f-77e4fedac79e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01db9299-74f8-43e9-be95-443b9270af01")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -0.45 -0.75) (xy 0.75 -0.75) (xy 0.75 0.75) (xy -0.75 0.75) (xy -0.75 -0.45) (xy -0.45 -0.75)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a565db9e-5436-4c6f-823b-4d670c17e4de")
+	)
+	(fp_line
+		(start -1.2 -1)
+		(end 1.2 -1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "2c7c18f7-8432-44f6-bacb-88362ceb80e2")
+	)
+	(fp_line
+		(start 1.2 -1)
+		(end 1.2 1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "b2a4e683-eeb5-4cf7-aae7-9cc0fd61e940")
+	)
+	(fp_line
+		(start 1.2 1)
+		(end -1.2 1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a50eccb4-9a16-46aa-a541-c56239ec1931")
+	)
+	(fp_line
+		(start -1.2 1)
+		(end -1.2 -1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e5a492bd-585e-4c82-be67-6faa7db04afc")
+	)
+	(fp_poly
+		(pts
+			(xy -1.15 -0.5) (xy -1.45 -0.72) (xy -1.45 -0.28) (xy -1.15 -0.5)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "7d78d8c9-7835-47c2-81bf-da65b8f06ea4")
+	)
+	(pad "1" smd roundrect
+		(at -0.65 -0.5)
+		(size 0.6 0.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "27710a5c-9ad9-48a6-9aee-fff7d04ac83e")
+	)
+	(pad "2" smd roundrect
+		(at -0.65 0)
+		(size 0.6 0.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "9ee713c0-9778-401b-b7df-8fc50115bc74")
+	)
+	(pad "3" smd roundrect
+		(at -0.65 0.5)
+		(size 0.6 0.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "5bd81159-0ec7-412b-9e0b-ac2bd7b8bd0d")
+	)
+	(pad "6" smd roundrect
+		(at 0.45 -0.5)
+		(size 1 0.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "2948671f-1093-4cf4-8555-3c23eb7cda4d")
+	)
+	(pad "5" smd roundrect
+		(at 0.45 0)
+		(size 1 0.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "bf319414-19b6-4b0a-b4a6-e311a498f7f6")
+	)
+	(pad "4" smd roundrect
+		(at 0.45 0.5)
+		(size 1 0.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "d7c0a877-1ba0-46a3-9d3b-8ca0a47dd2ca")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/DualFlat/VSON-6_1.5x1.5mm_DMQ.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/DualFlat/VSON-6_1.5x1.5mm_DMQ.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,192 @@
+(footprint "CP-3528"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Polymer tantalum / POSCAP capacitor, EIA 3528-21 (B2 case) 3.5 x 2.8 x 1.9 mm; pads 1.4 x 2.4 mm at +/-1.45 mm (gap 1.5), pad 2 = anode (+) as in the CoE_Capacitor polarised symbols (top pin 2 = +)")
+	(tags "capacitor polymer tantalum POSCAP 3528 B case polarized")
+	(property "Reference" "REF**"
+		(at 0 -2.1 0)
+		(layer "F.SilkS")
+		(uuid "5662acee-695d-4047-a743-0b6ad1e6c8fd")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CP-3528"
+		(at 0 2.1 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da7fe93f-060c-4e01-be0d-177d737baa16")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "195a8494-6cb5-42d1-936e-ec31f0078806")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98ae3f28-10b4-49e5-afe9-8667426d82ae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.75 -1.4)
+		(end 1.75 -1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "10fd2777-fe32-4c7a-bbbe-097df500df7c")
+	)
+	(fp_line
+		(start 1.75 -1.4)
+		(end 1.75 1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "12579232-77b5-48d2-8318-ad23e000904f")
+	)
+	(fp_line
+		(start 1.75 1.4)
+		(end -1.75 1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "cdf0d878-7f97-4ce6-a27b-a337ed5c5a3a")
+	)
+	(fp_line
+		(start -1.75 1.4)
+		(end -1.75 -1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1c0ea327-cc5a-4f44-bc58-0ca091e511f5")
+	)
+	(fp_line
+		(start -1.35 -1.4)
+		(end -1.35 1.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "fb69f4f3-1238-412d-acce-ef339393bfa0")
+	)
+	(fp_line
+		(start -2.4 -1.65)
+		(end 2.4 -1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "f80ce642-1354-4b6e-b05b-317665cbf76d")
+	)
+	(fp_line
+		(start 2.4 -1.65)
+		(end 2.4 1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "93db4d00-acac-40b3-838e-ac48bb93dfba")
+	)
+	(fp_line
+		(start 2.4 1.65)
+		(end -2.4 1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "440d93de-5349-495f-b47f-b0e6f51d828c")
+	)
+	(fp_line
+		(start -2.4 1.65)
+		(end -2.4 -1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "0528d82f-15ef-4b88-bb3e-ed15ab8e29b9")
+	)
+	(fp_line
+		(start -2.5 -1.3)
+		(end -2.5 1.3)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d44fea23-f416-4970-8f75-5e0a5ea4f854")
+	)
+	(pad "2" smd roundrect
+		(at -1.45 0)
+		(size 1.4 2.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "2e8c4c18-ac20-4ead-ab86-f06d7c84e8bb")
+	)
+	(pad "1" smd roundrect
+		(at 1.45 0)
+		(size 1.4 2.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "ca2887dc-6ab5-4c09-957a-ddb765367e27")
+	)
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/Capacitors/CP-3528.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/Capacitors/CP-3528.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
