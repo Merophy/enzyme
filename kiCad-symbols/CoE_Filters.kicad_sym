@@ -102,7 +102,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "FL_* NFE31*"
+		(property "ki_fp_filters" "FL-3.2-1.6"
 			(at 0 0 0)
 			(effects
 				(font

@@ -80,7 +80,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Potentiometer*"
+		(property "ki_fp_filters" "Pot_Bourns_TC33X"
 			(at 0 0 0)
 			(effects
 				(font
@@ -311,7 +311,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Potentiometer*"
+		(property "ki_fp_filters" "LineerPot"
 			(at 0 0 0)
 			(effects
 				(font
@@ -734,7 +734,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
+		(property "ki_fp_filters" "SolderJumper"
 			(at 0 0 0)
 			(effects
 				(font

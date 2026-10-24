@@ -104,7 +104,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "SMC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -305,7 +305,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "SOD-123"
 			(at 0 0 0)
 			(effects
 				(font
@@ -341,6 +341,181 @@
 			)
 		)
 		(symbol "B5819W_1_1"
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy -1.27 1.27) (xy 0 -1.27) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.54)
+				(name "A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.54)
+				(name "K"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "BAT46WJ"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0.635 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BAT46WJ"
+			(at 0.635 -2.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Diode:SOD-323F"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586186000074739712"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 250mA Schottky diode, VF 0.45 V @ 10 mA / 0.85 V @ 250 mA, IFSM 2.5 A, low capacitance, SOD-323F (Nexperia BAT46WJ,115) - GaN bootstrap diode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Voltage" "100V"
+			(at 1.905 -0.635 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+				(justify left)
+			)
+		)
+		(property "Max current" "250mA"
+			(at 1.905 0.635 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR. Part #" "BAT46WJ,115"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C114696"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "schottky diode bootstrap user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOD-323*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAT46WJ_1_1"
 			(polyline
 				(pts
 					(xy 1.27 1.27) (xy -1.27 1.27) (xy 0 -1.27) (xy 1.27 1.27)
@@ -506,7 +681,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "SOD-523"
 			(at 0 0 0)
 			(effects
 				(font
@@ -679,7 +854,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -842,7 +1017,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-1206_Flipped"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1039,7 +1214,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1236,7 +1411,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0402"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1433,7 +1608,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1662,7 +1837,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-RGB-5050"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2038,7 +2213,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2235,7 +2410,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2432,7 +2607,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED-0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2631,7 +2806,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "SOD-128"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3030,7 +3205,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED_2835"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3238,7 +3413,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED_2835_Inverse"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3446,7 +3621,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "LED_2835"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4125,7 +4300,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "SOD-523"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4179,6 +4354,207 @@
 			)
 			(pin passive line
 				(at 0 3.81 270)
+				(length 2.54)
+				(name "K"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SMCJ51A"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0.635 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMCJ51A"
+			(at 0.635 -2.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Diode:SMC"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755796815486689280"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TVS 1.5kW unidirectional, VR 51V, VBR 56.7-62.7V, VC 82.4V at 18.2A, DO-214AB (SMC), MDD SMCJ51A - 48 V bus clamp"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Voltage" "51V"
+			(at 2.54 -0.635 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+				(justify left)
+			)
+		)
+		(property "Max current" "18.2A"
+			(at 1.905 0.635 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR. Part #" "SMCJ51A"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C408371"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "TVS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SMC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SMCJ51A_0_1"
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -1.905 -1.905)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.905 -0.635)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "SMCJ51A_1_1"
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy -1.27 1.27) (xy 0 -1.27) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.54)
+				(name "A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
 				(length 2.54)
 				(name "K"
 					(effects

@@ -523,7 +523,18 @@
 		(uuid "89326b12-508f-4400-b245-ce2eb7405eb5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm.step"
+	(model "${KIPRJMOD}/enzyme/kiCad-solids/QuadFlat/QFN-20-EP.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/../enzyme/kiCad-solids/QuadFlat/QFN-20-EP.step"
 		(offset
 			(xyz 0 0 0)
 		)

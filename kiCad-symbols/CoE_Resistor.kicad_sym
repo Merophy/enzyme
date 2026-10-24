@@ -41,7 +41,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705904671227904"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -94,7 +94,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -230,7 +230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705919464263680"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -283,7 +283,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -419,7 +419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705907481001984"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -472,7 +472,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -608,7 +608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8756446974729949184"
 			(at -8.89 -3.81 0)
 			(effects
 				(font
@@ -661,7 +661,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -850,7 +850,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -986,7 +986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8556212101498380288"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -1039,7 +1039,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1228,7 +1228,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1417,7 +1417,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1552,7 +1552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588898597522194432"
 			(at -8.89 -3.81 0)
 			(effects
 				(font
@@ -1605,7 +1605,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1741,7 +1741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705960430440448"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -1794,7 +1794,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1983,7 +1983,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2172,7 +2172,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2308,7 +2308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705971410853888"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2361,7 +2361,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2497,7 +2497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705974197633024"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2550,7 +2550,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2560,6 +2560,195 @@
 			)
 		)
 		(symbol "18K_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "1.5K"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.5K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0402"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705932919590912"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 1.5kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "0402WGF1501TCE"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25867"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "1.5K_1_1"
 			(polyline
 				(pts
 					(xy -0.762 -2.032) (xy -0.762 2.032)
@@ -2686,7 +2875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705924167974912"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2739,7 +2928,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2875,7 +3064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705944068186112"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2928,7 +3117,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3335,7 +3524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705977146228736"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3388,7 +3577,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3524,7 +3713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705884869509120"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3577,7 +3766,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3713,7 +3902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705935700279296"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3766,7 +3955,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3776,6 +3965,195 @@
 			)
 		)
 		(symbol "2.2K_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "2.2R-2512"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2R"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-2512"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588882077936312320"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 1W 2.2Ω 200V Thick Film Resistor ±5% ±400ppm/℃ 2512 Chip Resistor - Surface Mount ROHS (GaN RC snubber)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "25121WJ022JT4E"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25480"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "2.2R-2512_1_1"
 			(polyline
 				(pts
 					(xy -0.762 -2.032) (xy -0.762 2.032)
@@ -3902,7 +4280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178045253701632"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3911,7 +4289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55℃~+155℃ 2.2Ω 50V 63mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55℃~+155℃ 2.2Ω 50V 62.5mW Thick Film Resistor ±1% ±200ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3928,7 +4306,7 @@
 				)
 			)
 		)
-		(property "MFR. Part #" "CRCW04022R20FKED"
+		(property "MFR. Part #" "0402WGF220KTCE"
 			(at 0 -10.795 0)
 			(effects
 				(font
@@ -3937,7 +4315,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C482139"
+		(property "JLCPCB Part #" "C25101"
 			(at 0 -13.335 0)
 			(effects
 				(font
@@ -3955,7 +4333,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4090,7 +4468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706164151980033"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4143,7 +4521,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4361,7 +4739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705982873886720"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4414,7 +4792,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4603,7 +4981,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4739,7 +5117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705988980932608"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4792,7 +5170,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4928,7 +5306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706525702471680"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4981,7 +5359,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5117,7 +5495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705991738212352"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5170,7 +5548,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5306,7 +5684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705910383595520"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5359,7 +5737,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5495,7 +5873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706002893299712"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5548,7 +5926,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5684,7 +6062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586191781834317824"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5737,7 +6115,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5873,7 +6251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707948863373312"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5926,7 +6304,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6062,7 +6440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755489856422191104"
 			(at -8.89 -3.81 0)
 			(effects
 				(font
@@ -6115,7 +6493,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6251,7 +6629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705938544287744"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -6304,7 +6682,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6440,7 +6818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178075151241216"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -6493,7 +6871,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6682,7 +7060,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6818,7 +7196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706021431853056"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -6871,7 +7249,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7007,7 +7385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705941367193600"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -7060,7 +7438,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7196,7 +7574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178159029473280"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -7249,7 +7627,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7385,7 +7763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705913233424384"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -7438,7 +7816,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7448,6 +7826,195 @@
 			)
 		)
 		(symbol "470R_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "47K-0.1%"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0603"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755642219996946432"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 47kΩ 75V 100mW Thin Film Resistor ±0.1% ±25ppm/℃ 0603 Chip Resistor - Surface Mount ROHS (1EDN7116U TDI input pair)"
+			(at 0 -19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "RT0603BRD0747KL"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C326725"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "47K-0.1%_1_1"
 			(polyline
 				(pts
 					(xy -0.762 -2.032) (xy -0.762 2.032)
@@ -7574,7 +8141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705927001427968"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -7627,7 +8194,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7763,7 +8330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706036003409920"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -7816,7 +8383,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7952,7 +8519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706614733475840"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -8005,7 +8572,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8141,7 +8708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757047011684163584"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDO0000/AOA0000C307.pdf"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -8150,7 +8717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "-55℃~+155℃ 500mW 3.58A 5.1Ω Thin Film Current Sense Resistor ±1% ±50ppm/℃ 0805 (MFCR high-power) ROHS"
+		(property "Description" "-55℃~+155℃ 5.1Ω 400V 500mW anti-surge Thick Film Resistor ±5% 0805 Chip Resistor - Surface Mount ROHS (Panasonic ERJ-P06, precharge)"
 			(at 0 -20.32 0)
 			(effects
 				(font
@@ -8159,7 +8726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" "5%"
 			(at 0 0 90)
 			(effects
 				(font
@@ -8167,7 +8734,7 @@
 				)
 			)
 		)
-		(property "MFR. Part #" "MFCR0805F5R10QHR"
+		(property "MFR. Part #" "ERJ-P06J5R1V"
 			(at 0 -10.795 0)
 			(effects
 				(font
@@ -8176,7 +8743,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C52069045"
+		(property "JLCPCB Part #" "C543423"
 			(at 0 -13.335 0)
 			(effects
 				(font
@@ -8330,7 +8897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178350667087872"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -8383,7 +8950,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8519,7 +9086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706055238078464"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -8572,7 +9139,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8708,7 +9275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586191860464799744"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -8761,7 +9328,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8950,7 +9517,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9139,7 +9706,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9328,7 +9895,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9613,7 +10180,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "R-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9623,6 +10190,1329 @@
 			)
 		)
 		(symbol "2.2K-HP_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "330R"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "330R"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0402"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706017514917888"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 330Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "0402WGF3300TCE"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25104"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "330R_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "47R"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47R"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0402"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706030013534208"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 47Ω 50V 62.5mW Thick Film Resistor ±1% ±200ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "0402WGF470JTCE"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25118"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "47R_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "56K"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "56K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0402"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705929912410112"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 56kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "0402WGF5602TCE"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25796"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "56K_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "62K-HP"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "62K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0805"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706640544813056"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 62kΩ 150V 125mW Thick Film Resistor ±1% ±100ppm/℃ 0805 Chip Resistor - Surface Mount ROHS"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "0805W8F6202T5E"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17783"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "62K-HP_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "200K-HP"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "200K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0805"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706517206974464"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 200kΩ 150V 125mW Thick Film Resistor ±1% ±100ppm/℃ 0805 Chip Resistor - Surface Mount ROHS"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "0805W8F2003T5E"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17539"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "200K-HP_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "220K-0.1%"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0402"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755649696260210688"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 220kΩ 50V 63mW Thin Film Resistor ±0.1% ±25ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "RT0402BRD07220KL"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C852641"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "220K-0.1%_1_1"
+			(polyline
+				(pts
+					(xy -0.762 -2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 2.032) (xy -0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy -0.762 -2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.762 -2.032) (xy 0.762 2.032)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 1.6002)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "30K-0.1%"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "R"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "30K"
+			(at 1.27 -1.27 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Resistor:R-0402"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755644823317417984"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "-55℃~+155℃ 30kΩ 50V 62.5mW Thin Film Resistor ±0.1% ±25ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "0.1%"
+			(at 0 0 90)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "RT0402BRD0730KL"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C728558"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "resistor res user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "R-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "30K-0.1%_1_1"
 			(polyline
 				(pts
 					(xy -0.762 -2.032) (xy -0.762 2.032)

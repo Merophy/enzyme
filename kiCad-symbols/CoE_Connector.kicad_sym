@@ -91,7 +91,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "524651071"
 			(at 0 0 0)
 			(effects
 				(font
@@ -494,7 +494,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "524651671"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1071,7 +1071,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "0533071071"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2524,7 +2524,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_2x??_*"
+		(property "ki_fp_filters" "5011904017"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3864,7 +3864,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "501331-0607"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4178,7 +4178,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_2x??_*"
+		(property "ki_fp_filters" "5015714007"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5518,7 +5518,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "502585-0560"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5816,7 +5816,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "502585-0570"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6114,7 +6114,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "503175-0500"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6374,7 +6374,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "5055680671"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7002,7 +7002,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "BM04B-GHS-TBT"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7259,7 +7259,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "BM11B-GHS-TBT"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7719,7 +7719,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "GT-CEDVB-08P-01"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8311,7 +8311,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "GT-CEDVB-08P-01_BoardEdge"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8856,7 +8856,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_1.27mm_Female_2x4"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9192,7 +9192,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_1.27mm_Female_2x5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9586,7 +9586,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_1.27mm_Male_2x5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9962,7 +9962,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_2mm_Female_2x10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10628,7 +10628,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_2mm_Female_2x12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11410,7 +11410,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_2mm_Female_2x6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11844,7 +11844,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_2mm_Male_2x10"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12510,7 +12510,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_2mm_Male_2x12"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13292,7 +13292,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Header_2mm_Male_2x6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13726,7 +13726,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_5mm_Hole"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13894,7 +13894,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_RightAngle_Plugin"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14051,7 +14051,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_HoleForRightAngle"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14208,7 +14208,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_5mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14365,7 +14365,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14522,7 +14522,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_4.2mm_Plugin"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14674,7 +14674,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "microSD*"
+		(property "ki_fp_filters" "MicroSD_Card_Slot"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15394,7 +15394,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "SM04B-GHS-TB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15651,7 +15651,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "SM06B-GHS-TB"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15967,7 +15967,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_12mm_Round_Standoff"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16124,7 +16124,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_6mm_Round_Standoff"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16281,7 +16281,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_8mm_Round_Standoff"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16438,7 +16438,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M3_2mm_Round_ThruHole"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16448,6 +16448,163 @@
 			)
 		)
 		(symbol "SMTSO3220_1_1"
+			(polyline
+				(pts
+					(xy 0.7366 0.3302) (xy 1.6002 -0.508)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.9144 0.508) (xy 1.778 -0.3302)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 0)
+				(radius 0.635)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 0)
+				(radius 1.27)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin passive line
+				(at -3.81 0 0)
+				(length 3.81)
+				(name "Pin_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SMTSO4260"
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "S"
+			(at 2.54 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SMTSO4260"
+			(at 2.54 -2.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CoF_Connector:M4_6mm_Round_ThruHole"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8757927275071856640"
+			(at 0 -11.684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Patch round nut ROHS 4.2mm thru hole 6mm length (M4, OD 8.74, spigot 6.22 x 1.53)"
+			(at 0 -4.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "SMTSO4260CTJ"
+			(at 0 -6.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C36498707"
+			(at 0 -9.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Patch round nut "
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "M4_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SMTSO4260_1_1"
 			(polyline
 				(pts
 					(xy 0.7366 0.3302) (xy 1.6002 -0.508)
@@ -16595,7 +16752,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "M4_10mm_Round_ThruHole"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16752,7 +16909,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??-1MP*"
+		(property "ki_fp_filters" "GT-BTP16003-0180B-014B"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17151,7 +17308,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "SoicBite"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17843,7 +18000,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "USB*C*Receptacle*"
+		(property "ki_fp_filters" "USB-C"
 			(at 0 0 0)
 			(effects
 				(font

@@ -41,7 +41,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8554627388281098240"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -94,7 +94,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -259,7 +259,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -424,7 +424,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -536,7 +536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987747119251456"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -589,7 +589,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -754,7 +754,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -919,7 +919,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1031,7 +1031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707307011465216"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -1084,7 +1084,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1196,7 +1196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707322534723585"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -1249,7 +1249,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1361,7 +1361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884955182718976"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -1414,7 +1414,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1579,7 +1579,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1744,7 +1744,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1909,7 +1909,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2021,7 +2021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987669403127808"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2074,7 +2074,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2239,7 +2239,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2351,7 +2351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755252209909420032"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2404,7 +2404,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2515,7 +2515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588898766435205120"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -2568,7 +2568,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2680,7 +2680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707174974914560"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -2733,7 +2733,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2898,7 +2898,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3063,7 +3063,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3175,7 +3175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987692408479744"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3228,7 +3228,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3340,7 +3340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178550172540928"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3393,7 +3393,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3505,7 +3505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588894591831040000"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3558,7 +3558,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3670,7 +3670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8600502007224680448"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -3723,7 +3723,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3888,7 +3888,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4053,7 +4053,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "CP-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4225,7 +4225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706866429190144"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4278,7 +4278,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4390,7 +4390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8555544417670705152"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4443,7 +4443,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4555,7 +4555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987708770594816"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4608,7 +4608,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4781,7 +4781,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4946,7 +4946,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "CP-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5171,7 +5171,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "CP-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5343,7 +5343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987717889011712"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5396,7 +5396,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5561,7 +5561,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5673,7 +5673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987825238433792"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -5726,7 +5726,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5891,7 +5891,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6003,7 +6003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588933188555051008"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -6056,7 +6056,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6168,7 +6168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987734406045696"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -6221,7 +6221,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6333,7 +6333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8770987847610851328"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -6386,7 +6386,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "C-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6551,7 +6551,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "C_*"
+		(property "ki_fp_filters" "CP-*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6648,6 +6648,561 @@
 			(pin passive line
 				(at 0 3.81 270)
 				(length 2.3)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.9972)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "4.7uF-0805"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.635 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 0.635 -2.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Capacitor:C-0805"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178820013899776"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "16V 4.7uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "CL21B475KOFNNNE"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C107365"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "C-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "4.7uF-0805_1_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy 2.032 0.762)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -0.762) (xy 2.032 -0.762)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.9972)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.9972)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "47uF-80V"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.635 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47uF"
+			(at 0.635 -2.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Capacitor:CP_Elec_10x10"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589837363850608640"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "47uF 80V ±20% hybrid polymer aluminium electrolytic, SMD 10x10mm, -55~+105C 10000h, low ESR (Lelon HBV) - damped bus bulk"
+			(at 0 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "80V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "HBV470M1KTR-1010"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C3031594"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap user polar"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "CP_Elec_10x10"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "47uF-80V_1_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy -2.032 1.524)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 2.032) (xy -0.508 2.54)
+				)
+				(stroke
+					(width 0.1)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.254 2.286) (xy -0.762 2.286)
+				)
+				(stroke
+					(width 0.1)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 1.524) (xy -2.032 1.524)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 0.762) (xy -2.032 0.762)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 0.762) (xy 2.032 1.524)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 -0.762) (xy -2.032 -0.762)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.3)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.9972)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "10nF-100V"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.254)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "C"
+			(at 0.635 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 0.635 -2.54 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_Capacitor:C-0603"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8755241410432393216"
+			(at 0 -16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 10nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "100V"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 0.7112 0.7112)
+				)
+			)
+		)
+		(property "MFR. Part #" "CC0603KRX7R0BB103"
+			(at 0 -10.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C107059"
+			(at 0 -13.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "capacitor cap user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "C-*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "10nF-100V_1_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy 2.032 0.762)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -0.762) (xy 2.032 -0.762)
+				)
+				(stroke
+					(width 0.3048)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.9972)
 				(name "~"
 					(effects
 						(font

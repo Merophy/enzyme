@@ -267,7 +267,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "TSSOP*3x3mm*P0.5mm*"
+		(property "ki_fp_filters" "VSSOP10_3x3mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -758,7 +758,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "TSSOP*4.4x5mm*P0.65mm*"
+		(property "ki_fp_filters" "TSSOP-14"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3631,7 +3631,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "VSSOP*3x3mm*P0.5mm*"
+		(property "ki_fp_filters" "VSSOP10_3x3mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3913,7 +3913,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "VSSOP*3x3mm*P0.5mm*"
+		(property "ki_fp_filters" "VSSOP10_3x3mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4182,7 +4182,7 @@
 				)
 			)
 		)
-		(property "MFR. Part #" "INA241A1IDDFR"
+		(property "MFR. Part #" "INA241A1QDDFRQ1"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -4191,7 +4191,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C19712054"
+		(property "JLCPCB Part #" "C22452698"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -5170,7 +5170,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "QFN*1EP*5x5mm*P0.4mm*"
+		(property "ki_fp_filters" "QFN-28-EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5776,7 +5776,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "QFN*1EP*5x5mm*P0.4mm*"
+		(property "ki_fp_filters" "QFN-40-EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9216,7 +9216,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 12.7 -10.16 180)
 				(length 2.54)
 				(hide yes)
@@ -9456,7 +9456,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 12.7 -10.16 180)
 				(length 2.54)
 				(hide yes)
@@ -11045,7 +11045,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Texas*R*PDSO*G8*"
+		(property "ki_fp_filters" "QFN-32-EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11761,7 +11761,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "TSOT?23*"
+		(property "ki_fp_filters" "DFN-8-1EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16356,7 +16356,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "SSOP*5.3x8.2mm* SSOP*3.9x8.7mm* TSSOP*4.4x7.8mm* TVSOP*4.4x5.0mm* Texas*VQFN*RHL*"
+		(property "ki_fp_filters" "QFN-24-EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18549,7 +18549,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "LQFP*7x7mm*P0.5mm*"
+		(property "ki_fp_filters" "LQFP-48"
 			(at 0 0 0)
 			(effects
 				(font
@@ -19634,7 +19634,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "LQFP*10x10mm*P0.5mm*"
+		(property "ki_fp_filters" "LQFP-64"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23605,7 +23605,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "TFBGA*14x14mm*Layout17x17*P0.8mm*"
+		(property "ki_fp_filters" "TFBGA265_14x14mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -32494,7 +32494,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "Texas*R*PDSO*G8*"
+		(property "ki_fp_filters" "QFN-16-EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -34879,7 +34879,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "VSSOP*3x3mm*P0.5mm*"
+		(property "ki_fp_filters" "QFN-20-EP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -37867,6 +37867,15 @@
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
 			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "USBLC6-2SC6"
+			(at 0 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48747,6 +48756,504 @@
 					)
 				)
 				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TMP1075"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -7.62 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TMP1075"
+			(at 7.62 8.89 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CoF_DualFlat:WSON-8-1EP_2x2mm_DSG"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmp1075.pdf"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Digital temperature sensor, I2C/SMBus (LM75 compatible), +/-1C max -40..110C, -55..125C, 1.7-5.5V, ALERT open drain, A0/A1 GND/V+/SDA/SCL, A2 GND/V+, WSON-8 2x2 (DSG), thermal pad to GND"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "TMP1075DSGR"
+			(at 0 -22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2870250"
+			(at 0 -25.400000000000002 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "temperature sensor I2C LM75 TI user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*WSON*8*2x2*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TMP1075_0_1"
+			(rectangle
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "TMP1075_1_1"
+			(pin power_in line
+				(at 0 10.16 270)
+				(length 2.54)
+				(name "V+"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -10.16 5.08 0)
+				(length 2.54)
+				(name "SDA"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 2.54 0)
+				(length 2.54)
+				(name "SCL"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin open_collector line
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "ALERT"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 10.16 5.08 180)
+				(length 2.54)
+				(name "A0"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 10.16 2.54 180)
+				(length 2.54)
+				(name "A1"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "A2"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 -10.16 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 1.27 -10.16 90)
+				(length 2.54)
+				(name "EP"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "1EDN7116U"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -7.62 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1EDN7116U"
+			(at 7.62 6.35 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CoF_DualFlat:PG-TSNP-7-11"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590904965814964224"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single-channel TDI gate driver for GaN SG HEMTs / MOSFETs, high-side capable (CMR +/-150 V static, +/-200 V dynamic), 2 A source/sink, 5 A active Miller clamp, active bootstrap clamp (BST), VDD 4.2-11 V, UVLO 3.85 V, 55 ns, 47 k (3.3 V logic) / 75 k (5 V) 0.1 % input resistors required, PG-TSNP-7-11 1.8x1.8 mm (Infineon EiceDRIVER 1EDN7116UXTSA1)"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "1EDN7116UXTSA1"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C6368849"
+			(at 0 -22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "gate driver GaN TDI differential input high side low side bootstrap Infineon EiceDRIVER user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "PG-TSNP-7*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "1EDN7116U_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "1EDN7116U_1_1"
+			(pin passive line
+				(at -2.54 7.62 270)
+				(length 2.54)
+				(name "VDD"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 2.54 0)
+				(length 2.54)
+				(name "IN+"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "IN-"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 -7.62 90)
+				(length 2.54)
+				(name "VSS"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 2.54 180)
+				(length 2.54)
+				(name "BST"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "OUT_SRC"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 -2.54 180)
+				(length 2.54)
+				(name "OUT_SNK"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
