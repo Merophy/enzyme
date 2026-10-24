@@ -404,7 +404,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "BAT46WJ"
+	(symbol "MBR1H100SFT3G"
 		(pin_numbers
 			(hide yes)
 		)
@@ -424,7 +424,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BAT46WJ"
+		(property "Value" "MBR1H100SFT3G"
 			(at 0.635 -2.54 0)
 			(effects
 				(font
@@ -433,7 +433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CoF_Diode:SOD-323F"
+		(property "Footprint" "CoF_Diode:SOD-123F"
 			(at 0 10.16 0)
 			(effects
 				(font
@@ -443,7 +443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586186000074739712"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588886768716288000"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -452,7 +452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100V 250mA Schottky diode, VF 0.45 V @ 10 mA / 0.85 V @ 250 mA, IFSM 2.5 A, low capacitance, SOD-323F (Nexperia BAT46WJ,115) - GaN bootstrap diode"
+		(property "Description" "100V 1A Schottky rectifier, VF 0.76 V max @ 1 A (0.5 V typ @ 0.1 A), IR 40 uA / 0.5 mA max at 100 V (25 / 125 C), IFSM 50 A, SOD-123FL (onsemi MBR1H100SFT3G) - GaN bootstrap diode"
 			(at 0 0 0)
 			(effects
 				(font
@@ -470,7 +470,7 @@
 				(justify left)
 			)
 		)
-		(property "Max current" "250mA"
+		(property "Max current" "1A"
 			(at 1.905 0.635 0)
 			(effects
 				(font
@@ -479,7 +479,7 @@
 				(justify left)
 			)
 		)
-		(property "MFR. Part #" "BAT46WJ,115"
+		(property "MFR. Part #" "MBR1H100SFT3G"
 			(at 0 -10.795 0)
 			(effects
 				(font
@@ -488,7 +488,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C114696"
+		(property "JLCPCB Part #" "C235757"
 			(at 0 -13.335 0)
 			(effects
 				(font
@@ -497,7 +497,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "schottky diode bootstrap user"
+		(property "ki_keywords" "schottky diode rectifier bootstrap 100V onsemi user"
 			(at 0 0 0)
 			(effects
 				(font
@@ -506,7 +506,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "SOD-323*"
+		(property "ki_fp_filters" "SOD-123F*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -515,7 +515,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "BAT46WJ_1_1"
+		(symbol "MBR1H100SFT3G_1_1"
 			(polyline
 				(pts
 					(xy 1.27 1.27) (xy -1.27 1.27) (xy 0 -1.27) (xy 1.27 1.27)
@@ -4198,7 +4198,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "BZX384-B5V1"
+	(symbol "BZX384-B5V6"
 		(pin_numbers
 			(hide yes)
 		)
@@ -4218,7 +4218,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BZX384-B5V1"
+		(property "Value" "BZX384-B5V6"
 			(at 0.635 -2.54 0)
 			(effects
 				(font
@@ -4237,7 +4237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588918282733178880"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586186274965770241"
 			(at 0 -16.51 0)
 			(effects
 				(font
@@ -4246,7 +4246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Zener diode 5.1V +/-2 % (5.0-5.2V at 5mA), ZZT 60R, 300mW, SOD-323, Nexperia BZX384-B5V1,115 - high-side bootstrap clamp"
+		(property "Description" "Zener diode 5.6V +/-2 % (5.49-5.71V at 5mA), ZZT 40R, 300mW, SOD-323, Nexperia BZX384-B5V6,115 - high-side gate-supply clamp"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4255,7 +4255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reverse Voltage" "5.1V"
+		(property "Reverse Voltage" "5.6V"
 			(at 1.905 -0.635 0)
 			(effects
 				(font
@@ -4264,7 +4264,7 @@
 				(justify left)
 			)
 		)
-		(property "Max current" "58mA"
+		(property "Max current" "53mA"
 			(at 1.905 0.635 0)
 			(effects
 				(font
@@ -4273,7 +4273,7 @@
 				(justify left)
 			)
 		)
-		(property "MFR. Part #" "BZX384-B5V1,115"
+		(property "MFR. Part #" "BZX384-B5V6,115"
 			(at 0 -10.795 0)
 			(effects
 				(font
@@ -4282,7 +4282,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C426823"
+		(property "JLCPCB Part #" "C179390"
 			(at 0 -13.335 0)
 			(effects
 				(font
@@ -4291,7 +4291,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "zener diode clamp 5.1V 2% Nexperia user"
+		(property "ki_keywords" "zener diode clamp 5.6V 2% Nexperia user"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4309,7 +4309,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "BZX384-B5V1_1_1"
+		(symbol "BZX384-B5V6_1_1"
 			(polyline
 				(pts
 					(xy -1.27 -1.27) (xy 1.27 -1.27) (xy 0 1.27) (xy -1.27 -1.27)
