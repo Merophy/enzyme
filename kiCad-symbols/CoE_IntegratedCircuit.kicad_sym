@@ -32892,7 +32892,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2877864"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33535,7 +33535,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C43698"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34013,7 +34013,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C116592"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34226,7 +34226,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5244316"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34439,7 +34439,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2073319"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34652,7 +34652,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C3189972"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35558,7 +35558,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5220127"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48828,7 +48828,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2870250"
-			(at 0 -25.400000000000002 0)
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49041,7 +49041,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -7.62 6.35 0)
+			(at -7.62 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49050,7 +49050,7 @@
 			)
 		)
 		(property "Value" "1EDN7116U"
-			(at 7.62 6.35 0)
+			(at 7.62 8.89 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
@@ -49059,15 +49059,6 @@
 			)
 		)
 		(property "Footprint" "CoF_DualFlat:PG-TSNP-7-11"
-			(at 0 -12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590904965814964224"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -49076,7 +49067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single-channel TDI gate driver for GaN SG HEMTs / MOSFETs, high-side capable (CMR +/-150 V static, +/-200 V dynamic), 2 A source/sink, 5 A active Miller clamp, active bootstrap clamp (BST), VDD 4.2-11 V, UVLO 3.85 V, 55 ns, 47 k (3.3 V logic) / 75 k (5 V) 0.1 % input resistors required, PG-TSNP-7-11 1.8x1.8 mm (Infineon EiceDRIVER 1EDN7116UXTSA1)"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590904965814964224"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -49085,7 +49076,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR. Part #" "1EDN7116UXTSA1"
+		(property "Description" "Single-channel TDI gate driver for GaN SG HEMTs / MOSFETs, high-side capable (CMR +/-150 V static, +/-200 V dynamic), 2 A source/sink, 5 A active Miller clamp, active bootstrap clamp (BST), VDD 4.2-11 V, UVLO 3.85 V, 55 ns, 47 k (3.3 V logic) / 75 k (5 V) 0.1 % input resistors required, PG-TSNP-7-11 1.8x1.8 mm (Infineon EiceDRIVER 1EDN7116UXTSA1)"
 			(at 0 -20.32 0)
 			(effects
 				(font
@@ -49094,8 +49085,17 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C6368849"
+		(property "MFR. Part #" "1EDN7116UXTSA1"
 			(at 0 -22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C6368849"
+			(at 0 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49123,8 +49123,8 @@
 		)
 		(symbol "1EDN7116U_0_1"
 			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -49136,7 +49136,7 @@
 		)
 		(symbol "1EDN7116U_1_1"
 			(pin passive line
-				(at -2.54 7.62 270)
+				(at -10.16 6.35 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -49190,7 +49190,7 @@
 				)
 			)
 			(pin passive line
-				(at -2.54 -7.62 90)
+				(at -10.16 -6.35 0)
 				(length 2.54)
 				(name "VSS"
 					(effects
