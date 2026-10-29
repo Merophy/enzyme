@@ -6557,12 +6557,12 @@
 			)
 		)
 		(property "Value" "KSZ9031RNX"
-			(at 20.32 -26.67 0)
+			(at -20.32 -26.67 0)
 			(effects
 				(font
 					(size 0.9906 0.9906)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "CoF_QuadFlat:QFN-48-EP_7x7mm"
@@ -7093,7 +7093,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -5.08 180)
+				(at 22.86 -7.62 180)
 				(length 2.54)
 				(name "LED2/PHYAD1"
 					(effects
@@ -7111,7 +7111,7 @@
 				)
 			)
 			(pin input line
-				(at 22.86 -10.16 180)
+				(at 22.86 -15.24 180)
 				(length 2.54)
 				(name "XI"
 					(effects
@@ -7129,7 +7129,7 @@
 				)
 			)
 			(pin output line
-				(at 22.86 -12.7 180)
+				(at 22.86 -17.78 180)
 				(length 2.54)
 				(name "XO"
 					(effects
@@ -7147,7 +7147,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 22.86 -15.24 180)
+				(at 22.86 -12.7 180)
 				(length 2.54)
 				(name "CLK125_NDO/LED_MODE"
 					(effects
@@ -7183,7 +7183,7 @@
 				)
 			)
 			(pin output line
-				(at 22.86 -22.86 180)
+				(at 10.16 -27.94 90)
 				(length 2.54)
 				(name "LDO_O"
 					(effects
@@ -33473,7 +33473,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "TPS3808G33"
+	(symbol "TPS3808G33DRV"
 		(pin_names
 			(offset 1.016)
 		)
@@ -33498,7 +33498,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CoF_SmallOutline:SOT-23-6"
+		(property "Footprint" "CoF_DualFlat:WSON-6-1EP_2x2mm_P0.65mm"
 			(at 0 -15.24 0)
 			(effects
 				(font
@@ -33507,7 +33507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps3808.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589909496404205568"
 			(at 0 -17.78 0)
 			(effects
 				(font
@@ -33516,7 +33516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Voltage supervisor 3.3V (VIT 3.07V, 0.5%), manual reset input (90k internal pull-up), open-drain RESET, delay 20ms (CT open), 300ms (CT to VDD via 40-200k) or CT capacitor (175 nF/s), 2.4uA, SOT-23-6 (DBV)"
+		(property "Description" "Voltage supervisor 3.3V (VIT 3.07V, 0.5%), manual reset input (90k internal pull-up), open-drain RESET, delay 20ms (CT open), 300ms (CT to VDD via 40-200k) or CT capacitor (175 nF/s), 2.4uA, WSON-6 2x2 (DRV), thermal pad to GND; fallback TECH PUBLIC TPS3808G33DRVR-TP (C51939667)"
 			(at 0 -20.32 0)
 			(effects
 				(font
@@ -33525,7 +33525,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR. Part #" "TPS3808G33DBVR"
+		(property "MFR. Part #" "TPS3808G33DRVT"
 			(at 0 -22.86 0)
 			(effects
 				(font
@@ -33534,7 +33534,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C43698"
+		(property "JLCPCB Part #" "C702176"
 			(at 0 -25.4 0)
 			(effects
 				(font
@@ -33561,7 +33561,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "TPS3808G33_0_1"
+		(symbol "TPS3808G33DRV_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -7.62)
@@ -33574,7 +33574,7 @@
 				)
 			)
 		)
-		(symbol "TPS3808G33_1_1"
+		(symbol "TPS3808G33DRV_1_1"
 			(pin input line
 				(at -10.16 2.54 0)
 				(length 2.54)
@@ -33585,7 +33585,7 @@
 						)
 					)
 				)
-				(number "5"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33593,7 +33593,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "~{MR}"
@@ -33603,7 +33603,7 @@
 						)
 					)
 				)
-				(number "3"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33621,7 +33621,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33639,7 +33639,7 @@
 						)
 					)
 				)
-				(number "4"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33657,7 +33657,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33675,7 +33675,25 @@
 						)
 					)
 				)
-				(number "2"
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 2.54 -10.16 90)
+				(length 2.54)
+				(name "EP"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -38790,7 +38808,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 6.35 180)
+				(at 12.7 -6.35 180)
 				(length 2.54)
 				(name "CLK"
 					(effects
@@ -38880,7 +38898,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -6.35 180)
+				(at 12.7 6.35 180)
 				(length 2.54)
 				(name "~{CS}"
 					(effects
@@ -43164,8 +43182,8 @@
 		)
 		(symbol "XC7Z020-CLG484_5_1"
 			(rectangle
-				(start -25.4 0)
-				(end 25.4 -45.72)
+				(start -15.24 0)
+				(end 15.24 -45.72)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -43178,12 +43196,12 @@
 				(at 0 -44.45 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.9906 0.9906)
 					)
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "PS_MIO0_500"
 					(effects
@@ -43201,7 +43219,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -5.08 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name "PS_MIO1_500"
 					(effects
@@ -43219,7 +43237,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -7.62 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name "PS_MIO2_500"
 					(effects
@@ -43237,7 +43255,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -10.16 0)
+				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name "PS_MIO3_500"
 					(effects
@@ -43255,7 +43273,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -12.7 0)
+				(at -17.78 -12.7 0)
 				(length 2.54)
 				(name "PS_MIO4_500"
 					(effects
@@ -43273,7 +43291,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -15.24 0)
+				(at -17.78 -15.24 0)
 				(length 2.54)
 				(name "PS_MIO5_500"
 					(effects
@@ -43291,7 +43309,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -17.78 0)
+				(at -17.78 -17.78 0)
 				(length 2.54)
 				(name "PS_MIO6_500"
 					(effects
@@ -43309,7 +43327,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -20.32 0)
+				(at -17.78 -20.32 0)
 				(length 2.54)
 				(name "PS_MIO7_500"
 					(effects
@@ -43327,7 +43345,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -22.86 0)
+				(at -17.78 -22.86 0)
 				(length 2.54)
 				(name "PS_MIO8_500"
 					(effects
@@ -43345,7 +43363,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -25.4 0)
+				(at -17.78 -25.4 0)
 				(length 2.54)
 				(name "PS_MIO9_500"
 					(effects
@@ -43363,7 +43381,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -27.94 0)
+				(at -17.78 -27.94 0)
 				(length 2.54)
 				(name "PS_MIO10_500"
 					(effects
@@ -43381,7 +43399,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -30.48 0)
+				(at -17.78 -30.48 0)
 				(length 2.54)
 				(name "PS_MIO11_500"
 					(effects
@@ -43399,7 +43417,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -33.02 0)
+				(at -17.78 -33.02 0)
 				(length 2.54)
 				(name "PS_MIO12_500"
 					(effects
@@ -43417,7 +43435,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -35.56 0)
+				(at -17.78 -35.56 0)
 				(length 2.54)
 				(name "PS_MIO13_500"
 					(effects
@@ -43435,7 +43453,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -38.1 0)
+				(at -17.78 -38.1 0)
 				(length 2.54)
 				(name "PS_MIO14_500"
 					(effects
@@ -43453,7 +43471,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -27.94 -40.64 0)
+				(at -17.78 -40.64 0)
 				(length 2.54)
 				(name "PS_MIO15_500"
 					(effects
@@ -43471,7 +43489,7 @@
 				)
 			)
 			(pin input line
-				(at 27.94 -2.54 180)
+				(at 17.78 -2.54 180)
 				(length 2.54)
 				(name "PS_CLK_500"
 					(effects
@@ -43489,7 +43507,7 @@
 				)
 			)
 			(pin input line
-				(at 27.94 -5.08 180)
+				(at 17.78 -5.08 180)
 				(length 2.54)
 				(name "PS_POR_B_500"
 					(effects
@@ -45903,8 +45921,8 @@
 		)
 		(symbol "XC7Z020-CLG484_8_1"
 			(rectangle
-				(start -25.4 0)
-				(end 25.4 -45.72)
+				(start -15.24 0)
+				(end 15.24 -45.72)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -45917,12 +45935,12 @@
 				(at 0 -44.45 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.9906 0.9906)
 					)
 				)
 			)
 			(pin input line
-				(at -27.94 -2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "PROGRAM_B_0"
 					(effects
@@ -45940,7 +45958,7 @@
 				)
 			)
 			(pin open_collector line
-				(at -27.94 -5.08 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name "INIT_B_0"
 					(effects
@@ -45958,7 +45976,7 @@
 				)
 			)
 			(pin open_collector line
-				(at -27.94 -7.62 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name "DONE_0"
 					(effects
@@ -45976,7 +45994,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -10.16 0)
+				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name "CFGBVS_0"
 					(effects
@@ -45994,7 +46012,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -15.24 0)
+				(at -17.78 -15.24 0)
 				(length 2.54)
 				(name "TCK_0"
 					(effects
@@ -46012,7 +46030,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -17.78 0)
+				(at -17.78 -17.78 0)
 				(length 2.54)
 				(name "TMS_0"
 					(effects
@@ -46030,7 +46048,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -20.32 0)
+				(at -17.78 -20.32 0)
 				(length 2.54)
 				(name "TDI_0"
 					(effects
@@ -46048,7 +46066,7 @@
 				)
 			)
 			(pin tri_state line
-				(at -27.94 -22.86 0)
+				(at -17.78 -22.86 0)
 				(length 2.54)
 				(name "TDO_0"
 					(effects
@@ -46066,7 +46084,7 @@
 				)
 			)
 			(pin power_in line
-				(at -27.94 -27.94 0)
+				(at -17.78 -27.94 0)
 				(length 2.54)
 				(name "VCCBATT_0"
 					(effects
@@ -46084,7 +46102,7 @@
 				)
 			)
 			(pin passive line
-				(at -27.94 -33.02 0)
+				(at -17.78 -33.02 0)
 				(length 2.54)
 				(name "RSVDGND"
 					(effects
@@ -46102,7 +46120,7 @@
 				)
 			)
 			(pin passive line
-				(at -27.94 -35.56 0)
+				(at -17.78 -35.56 0)
 				(length 2.54)
 				(name "RSVDVCC1"
 					(effects
@@ -46120,7 +46138,7 @@
 				)
 			)
 			(pin passive line
-				(at -27.94 -38.1 0)
+				(at -17.78 -38.1 0)
 				(length 2.54)
 				(name "RSVDVCC2"
 					(effects
@@ -46138,7 +46156,7 @@
 				)
 			)
 			(pin passive line
-				(at -27.94 -40.64 0)
+				(at -17.78 -40.64 0)
 				(length 2.54)
 				(name "RSVDVCC3"
 					(effects
@@ -46156,7 +46174,7 @@
 				)
 			)
 			(pin passive line
-				(at 27.94 -2.54 180)
+				(at 17.78 -2.54 180)
 				(length 2.54)
 				(name "VP_0"
 					(effects
@@ -46174,7 +46192,7 @@
 				)
 			)
 			(pin passive line
-				(at 27.94 -5.08 180)
+				(at 17.78 -5.08 180)
 				(length 2.54)
 				(name "VN_0"
 					(effects
@@ -46192,7 +46210,7 @@
 				)
 			)
 			(pin passive line
-				(at 27.94 -7.62 180)
+				(at 17.78 -7.62 180)
 				(length 2.54)
 				(name "VREFP_0"
 					(effects
@@ -46210,7 +46228,7 @@
 				)
 			)
 			(pin passive line
-				(at 27.94 -10.16 180)
+				(at 17.78 -10.16 180)
 				(length 2.54)
 				(name "VREFN_0"
 					(effects
@@ -46228,7 +46246,7 @@
 				)
 			)
 			(pin passive line
-				(at 27.94 -15.24 180)
+				(at 17.78 -15.24 180)
 				(length 2.54)
 				(name "DXP_0"
 					(effects
@@ -46246,7 +46264,7 @@
 				)
 			)
 			(pin passive line
-				(at 27.94 -17.78 180)
+				(at 17.78 -17.78 180)
 				(length 2.54)
 				(name "DXN_0"
 					(effects
@@ -46264,7 +46282,7 @@
 				)
 			)
 			(pin power_in line
-				(at 27.94 -22.86 180)
+				(at 17.78 -22.86 180)
 				(length 2.54)
 				(name "VCCADC_0"
 					(effects
@@ -46282,7 +46300,7 @@
 				)
 			)
 			(pin power_in line
-				(at 27.94 -25.4 180)
+				(at 17.78 -25.4 180)
 				(length 2.54)
 				(name "GNDADC_0"
 					(effects
@@ -49485,6 +49503,381 @@
 					)
 				)
 				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SN74AHC04RGY"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -7.62 11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SN74AHC04RGY"
+			(at 10.16 11.43 0)
+			(effects
+				(font
+					(size 0.9906 0.9906)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CoF_QuadFlat:VQFN-14-EP_3.5x3.5mm_RGY"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590185375324012544"
+			(at 0 -20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex inverter 74AHC, VCC 2-5.5 V, inputs -0.5 to 7 V independent of VCC (clamp diode to GND only, IIK -20 mA), 8 mA outputs, VQFN-14 3.5x3.5 RGY, EP = GND (TI SN74AHC04RGYR)"
+			(at 0 -22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR. Part #" "SN74AHC04RGYR"
+			(at 0 -25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2867510"
+			(at 0 -27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "inverter hex 74AHC04 logic TI user"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "VQFN*14*3.5x3.5*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SN74AHC04RGY_0_1"
+			(rectangle
+				(start -7.62 10.16)
+				(end 7.62 -10.16)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "SN74AHC04RGY_1_1"
+			(pin input line
+				(at -10.16 7.62 0)
+				(length 2.54)
+				(name "1A"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 7.62 180)
+				(length 2.54)
+				(name "1Y"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 5.08 0)
+				(length 2.54)
+				(name "2A"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 5.08 180)
+				(length 2.54)
+				(name "2Y"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 2.54 0)
+				(length 2.54)
+				(name "3A"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 2.54 180)
+				(length 2.54)
+				(name "3Y"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 0.0 0)
+				(length 2.54)
+				(name "4A"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 0.0 180)
+				(length 2.54)
+				(name "4Y"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "5A"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 -2.54 180)
+				(length 2.54)
+				(name "5Y"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -10.16 -5.079999999999999 0)
+				(length 2.54)
+				(name "6A"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 -5.079999999999999 180)
+				(length 2.54)
+				(name "6Y"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 12.7 270)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 -12.7 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 1.27 -12.7 90)
+				(length 2.54)
+				(name "EP"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "15"
 					(effects
 						(font
 							(size 1.27 1.27)

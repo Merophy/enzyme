@@ -20523,7 +20523,7 @@
 			)
 		)
 		(property "Footprint" "CoF_Connector:JXD1-0001NL"
-			(at 0 -25.400000000000002 0)
+			(at 0 -45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20532,7 +20532,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590906834624724992"
-			(at 0 -27.94 0)
+			(at 0 -48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20541,7 +20541,7 @@
 			)
 		)
 		(property "Description" "RJ45 magjack, 1000BASE-T, 1x1 tab-up, integrated 1CT:1CT magnetics with common-mode chokes, 0.1uF per chip-side centre tap to CTC (P1/P10), 75R Bob Smith terminations + 1nF/2kV to SHIELD, OCL 350uH min (8mA), 2250Vdc isolation, LEDs yellow (left, P13+/P14-, Vf 2.1V typ) / green (right, P11+/P12-, Vf 2.2V typ) at 20mA max, -40..+85C, THT 15.75x21.5x13.8mm, Pulse JXD1-0001NL"
-			(at 0 -30.48 0)
+			(at 0 -50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20550,7 +20550,7 @@
 			)
 		)
 		(property "MFR. Part #" "JXD1-0001NL"
-			(at 0 -33.02 0)
+			(at 0 -53.339999999999996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20559,7 +20559,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C5723156"
-			(at 0 -35.56 0)
+			(at 0 -55.879999999999995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20588,7 +20588,7 @@
 		(symbol "JXD1-0001NL_0_1"
 			(rectangle
 				(start -10.16 12.7)
-				(end 10.16 -17.78)
+				(end 10.16 -27.94)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -20599,7 +20599,31 @@
 			)
 			(polyline
 				(pts
-					(xy 2.54 10.16) (xy 2.54 9.652000000000001)
+					(xy -3.556 10.922) (xy -3.556 -8.382)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.048 10.922) (xy -3.048 -8.382)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -10.16) (xy -3.81 -10.16) (xy -3.81 -10.795)
 				)
 				(stroke
 					(width 0.1524)
@@ -20611,7 +20635,7 @@
 			)
 			(polyline
 				(pts
-					(xy 2.54 8.128) (xy 2.54 7.62)
+					(xy -3.81 -12.065) (xy -3.81 -12.7) (xy -5.08 -12.7)
 				)
 				(stroke
 					(width 0.1524)
@@ -20623,127 +20647,7 @@
 			)
 			(polyline
 				(pts
-					(xy 1.778 9.652000000000001) (xy 3.302 9.652000000000001) (xy 2.54 8.382000000000001) (xy 1.778 9.652000000000001)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.778 8.382000000000001) (xy 3.302 8.382000000000001)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.524 9.144) (xy 0.508 8.636)
-				)
-				(stroke
-					(width 0.1016)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.508 8.636) (xy 0.889 8.636)
-				)
-				(stroke
-					(width 0.1016)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.524 8.382000000000001) (xy 0.508 7.874000000000001)
-				)
-				(stroke
-					(width 0.1016)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.508 7.874000000000001) (xy 0.889 7.874000000000001)
-				)
-				(stroke
-					(width 0.1016)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 10.16) (xy 4.572 10.16)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 7.62) (xy 4.572 7.62)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 2.54) (xy 2.54 2.032)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0.508) (xy 2.54 0)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.778 2.032) (xy 3.302 2.032) (xy 2.54 0.762) (xy 1.778 2.032)
+					(xy -4.572 -10.795) (xy -3.048 -10.795) (xy -3.81 -12.065) (xy -4.572 -10.795)
 				)
 				(stroke
 					(width 0.1524)
@@ -20755,7 +20659,7 @@
 			)
 			(polyline
 				(pts
-					(xy 1.778 0.762) (xy 3.302 0.762)
+					(xy -4.572 -12.065) (xy -3.048 -12.065)
 				)
 				(stroke
 					(width 0.1524)
@@ -20767,7 +20671,7 @@
 			)
 			(polyline
 				(pts
-					(xy 1.524 1.524) (xy 0.508 1.016)
+					(xy -2.794 -11.684) (xy -1.6510000000000002 -12.318999999999999)
 				)
 				(stroke
 					(width 0.1016)
@@ -20779,7 +20683,19 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.016) (xy 0.889 1.016)
+					(xy -1.6510000000000002 -12.318999999999999) (xy -2.1590000000000003 -12.268199999999998) (xy -1.9050000000000002 -11.887199999999998) (xy -1.6510000000000002 -12.318999999999999)
+				)
+				(stroke
+					(width 0.1016)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 -10.668000000000001) (xy -1.6510000000000002 -11.303)
 				)
 				(stroke
 					(width 0.1016)
@@ -20791,7 +20707,67 @@
 			)
 			(polyline
 				(pts
-					(xy 1.524 0.762) (xy 0.508 0.254)
+					(xy -1.6510000000000002 -11.303) (xy -2.1590000000000003 -11.2522) (xy -1.9050000000000002 -10.8712) (xy -1.6510000000000002 -11.303)
+				)
+				(stroke
+					(width 0.1016)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -15.24) (xy -3.81 -15.24) (xy -3.81 -15.875000000000002)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.81 -17.145000000000003) (xy -3.81 -17.78) (xy -5.08 -17.78)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -4.572 -15.875000000000002) (xy -3.048 -15.875000000000002) (xy -3.81 -17.145000000000003) (xy -4.572 -15.875000000000002)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -4.572 -17.145000000000003) (xy -3.048 -17.145000000000003)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 -16.764) (xy -1.6510000000000002 -17.399)
 				)
 				(stroke
 					(width 0.1016)
@@ -20803,7 +20779,19 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 0.254) (xy 0.889 0.254)
+					(xy -1.6510000000000002 -17.399) (xy -2.1590000000000003 -17.348200000000002) (xy -1.9050000000000002 -16.967200000000002) (xy -1.6510000000000002 -17.399)
+				)
+				(stroke
+					(width 0.1016)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.794 -15.748000000000003) (xy -1.6510000000000002 -16.383000000000003)
 				)
 				(stroke
 					(width 0.1016)
@@ -20815,10 +20803,22 @@
 			)
 			(polyline
 				(pts
-					(xy 2.54 2.54) (xy 4.572 2.54)
+					(xy -1.6510000000000002 -16.383000000000003) (xy -2.1590000000000003 -16.332200000000004) (xy -1.9050000000000002 -15.951200000000002) (xy -1.6510000000000002 -16.383000000000003)
 				)
 				(stroke
-					(width 0.1524)
+					(width 0.1016)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 2.54) (xy 8.255 2.54) (xy 8.255 -5.08) (xy 6.35 -5.08) (xy 6.35 -6.35) (xy 2.54 -6.35) (xy 2.54 -5.08) (xy 0.635 -5.08) (xy 0.635 2.54)
+				)
+				(stroke
+					(width 0.254)
 					(type default)
 				)
 				(fill
@@ -20827,10 +20827,10 @@
 			)
 			(polyline
 				(pts
-					(xy 2.54 0) (xy 4.572 0)
+					(xy 1.778 2.54) (xy 1.778 0.889)
 				)
 				(stroke
-					(width 0.1524)
+					(width 0.2032)
 					(type default)
 				)
 				(fill
@@ -20839,10 +20839,10 @@
 			)
 			(polyline
 				(pts
-					(xy -2.286 11.43) (xy -2.286 -16.51)
+					(xy 2.54 2.54) (xy 2.54 0.889)
 				)
 				(stroke
-					(width 0.1524)
+					(width 0.2032)
 					(type default)
 				)
 				(fill
@@ -20851,14 +20851,101 @@
 			)
 			(polyline
 				(pts
-					(xy -1.778 11.43) (xy -1.778 -16.51)
+					(xy 3.302 2.54) (xy 3.302 0.889)
 				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.064 2.54) (xy 4.064 0.889)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.8260000000000005 2.54) (xy 4.8260000000000005 0.889)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.588 2.54) (xy 5.588 0.889)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.35 2.54) (xy 6.35 0.889)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 7.112 2.54) (xy 7.112 0.889)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start -0.635 3.81)
+				(end 9.525 -7.62)
 				(stroke
 					(width 0.1524)
 					(type default)
 				)
 				(fill
 					(type none)
+				)
+			)
+			(text "RJ45"
+				(at 4.445 -9.144 0)
+				(effects
+					(font
+						(size 1.0 1.0)
+					)
+				)
+			)
+			(text "1000BASE-T"
+				(at 4.445 -10.795 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+					)
 				)
 			)
 		)
@@ -21008,43 +21095,7 @@
 				)
 			)
 			(pin passive line
-				(at -12.7 -12.7 0)
-				(length 2.54)
-				(name "CTC"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -12.7 -15.24 0)
-				(length 2.54)
-				(name "CTC"
-					(effects
-						(font
-							(size 0.9906 0.9906)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 12.7 10.16 180)
+				(at -12.7 -10.16 0)
 				(length 2.54)
 				(name "YEL+"
 					(effects
@@ -21062,7 +21113,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 7.62 180)
+				(at -12.7 -12.7 0)
 				(length 2.54)
 				(name "YEL-"
 					(effects
@@ -21080,7 +21131,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 2.54 180)
+				(at -12.7 -15.24 0)
 				(length 2.54)
 				(name "GRN+"
 					(effects
@@ -21098,7 +21149,7 @@
 				)
 			)
 			(pin passive line
-				(at 12.7 0 180)
+				(at -12.7 -17.78 0)
 				(length 2.54)
 				(name "GRN-"
 					(effects
@@ -21116,7 +21167,43 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 90)
+				(at -12.7 -22.86 0)
+				(length 2.54)
+				(name "CTC"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 -25.4 0)
+				(length 2.54)
+				(name "CTC"
+					(effects
+						(font
+							(size 0.9906 0.9906)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -30.48 90)
 				(length 2.54)
 				(name "SHIELD"
 					(effects
